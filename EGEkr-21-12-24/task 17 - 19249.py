@@ -16,5 +16,4 @@ for i in range(len(data)-2):
     if c1 & c2:
         count += 1
         minS = min(minS, sum(int(data[j])**2 for j in range(i, i+3)))
-
 print(count, minS)
