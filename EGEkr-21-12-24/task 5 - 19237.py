@@ -15,4 +15,5 @@ for n in range(1, 100000):
     r = int(r, 3)
     if r > 220:
         ans.append(r)
+
 print(min(ans))
