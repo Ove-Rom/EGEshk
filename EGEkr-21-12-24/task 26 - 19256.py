@@ -1,32 +1,40 @@
-# with open("26_19256.txt") as file:
-#     file.readline()
-#     data = file.read().split("\n")
-data = ((60, 33), (60, 33), (50, 125), (50, 126), (50, 127), (50, 72), (50, 126))
+with open("26_19256.txt") as file:
+    file.readline()
+    data = file.read().split("\n")
+# data = ((50, 125), (50, 127), (50, 126), (50, 72), (50, 126), (40, 3), (60, 33), (60, 33), (40, 4))
 base = dict()
 
 for info in data:
-    # info = info.split()
+    info = info.split()
     id = int(info[0])
-    num = int(info[1])
+    num = str(info[1])
     if id not in base:
         base[id] = [num]
     else:
         base[id].append(num)
-
-nums = [i for i in range(1, 100001)]
+# print(base)
+nums = " ".join([str(i) for i in range(1, 100001)])
 leaderId = 0
 leaderNums = 0
 
 for student in base.items():
     student = list(student)
-    student[1] = list(set(sorted(student[1])))
-    if any(student[1][j] + 1 == student[1][j+1] for j in range(len(student[1]) - 1)):
-        count = max(j - i + 1 for i in range(len(student[1])) for j in range(i+1, len(student[1])-1) if student[1][i:j+1] in nums)
+    allCompleted = list(sorted(set(student[1]), key=int))
+    learned = []
+    count = 0
 
-        if leaderNums < len(student[1]):
+    for i in range(len(allCompleted)):
+        for j in range(i, len(allCompleted)):
+            if ' ' + ' '.join(allCompleted[i:j + 1]) + ' ' in nums:
+                # print(' '.join(allCompleted[i:j + 1]))
+                learned.append(j - i + 1)
+    count = max(learned)
+
+    if leaderNums < count:
+        leaderNums = count
+        leaderId = student[0]
+    elif leaderNums == count:
+        if leaderId > student[0]:
             leaderId = student[0]
-            leaderNums = len(student[1])
-        elif leaderNums == len(student[1]):
-            leaderId = min(leaderId, student[0])
 
 print(leaderId, leaderNums)

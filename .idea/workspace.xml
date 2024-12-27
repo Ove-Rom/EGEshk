@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="Dumbass">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="33">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGEkr-21-12-24/task 5 - 19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGEkr-21-12-24/task 5 - 19237.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.task 5 - 19237.executor": "Run",
+    "Python.taask 6 19238.executor": "Run",
+    "Python.task 1 - 1845.executor": "Run",
+    "Python.task 1 - 4581.executor": "Run",
+    "Python.task 1 - 4606.executor": "Run",
+    "Python.task 1 - 9732.executor": "Run",
+    "Python.task 1 - 9770.executor": "Run",
+    "Python.task 12 - 19244.executor": "Run",
+    "Python.task 14 - 19246.executor": "Run",
+    "Python.task 16 - 19248.executor": "Run",
+    "Python.task 17 - 19249.executor": "Run",
+    "Python.task 2 - 19234.executor": "Run",
+    "Python.task 23 - 19253.executor": "Run",
+    "Python.task 24 - 19254.executor": "Run",
+    "Python.task 25 - 19255.executor": "Run",
+    "Python.task 26 - 19256.executor": "Run",
+    "Python.task 5 - 19237.executor": "Debug",
+    "Python.tasks 19, 20, 21 - 19251.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -110,12 +126,210 @@
       <option name="project" value="LOCAL" />
       <updated>1735051380313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="нашёл еврей пачку денег, а там не хватает">
+      <option name="closed" value="true" />
+      <created>1735153783269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735153783269</updated>
+    </task>
+    <task id="LOCAL-00003" summary="187">
+      <option name="closed" value="true" />
+      <created>1735155225729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735155225729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="37">
+      <option name="closed" value="true" />
+      <created>1735158409413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735158409413</updated>
+    </task>
+    <task id="LOCAL-00005" summary="266249847">
+      <option name="closed" value="true" />
+      <created>1735158785183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735158785183</updated>
+    </task>
+    <task id="LOCAL-00006" summary="757543052">
+      <option name="closed" value="true" />
+      <created>1735159570908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735159570908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="92 838850571">
+      <option name="closed" value="true" />
+      <created>1735230949630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735230949630</updated>
+    </task>
+    <task id="LOCAL-00008" summary="19: 41">
+      <option name="closed" value="true" />
+      <created>1735234988917</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735234988917</updated>
+    </task>
+    <task id="LOCAL-00009" summary="19: 41; 20: 14, 35; 21: 32">
+      <option name="closed" value="true" />
+      <created>1735235082637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735235082637</updated>
+    </task>
+    <task id="LOCAL-00010" summary="92 838850571">
+      <option name="closed" value="true" />
+      <created>1735235279690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735235279690</updated>
+    </task>
+    <task id="LOCAL-00011" summary="222">
+      <option name="closed" value="true" />
+      <created>1735235363443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735235363443</updated>
+    </task>
+    <task id="LOCAL-00012" summary="115">
+      <option name="closed" value="true" />
+      <created>1735239869469</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735239869469</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2377">
+      <option name="closed" value="true" />
+      <created>1735241126487</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735241126487</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Как сказала бы кровь здорового человека: «Пора сворачиваться»">
+      <option name="closed" value="true" />
+      <created>1735242536056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735242536056</updated>
+    </task>
+    <task id="LOCAL-00015" summary="40031 148">
+      <option name="closed" value="true" />
+      <created>1735244930716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735244930716</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2377">
+      <option name="closed" value="true" />
+      <created>1735246182215</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735246182215</updated>
+    </task>
+    <task id="LOCAL-00017" summary="решить не смог, был повержен генератором">
+      <option name="closed" value="true" />
+      <created>1735247369717</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735247369718</updated>
+    </task>
+    <task id="LOCAL-00018" summary="66">
+      <option name="closed" value="true" />
+      <created>1735311024335</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735311024335</updated>
+    </task>
+    <task id="LOCAL-00019" summary="21">
+      <option name="closed" value="true" />
+      <created>1735311676756</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735311676756</updated>
+    </task>
+    <task id="LOCAL-00020" summary="18">
+      <option name="closed" value="true" />
+      <created>1735312572513</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735312572513</updated>
+    </task>
+    <task id="LOCAL-00021" summary="25">
+      <option name="closed" value="true" />
+      <created>1735313151530</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735313151530</updated>
+    </task>
+    <task id="LOCAL-00022" summary="33">
+      <option name="closed" value="true" />
+      <created>1735313788012</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735313788012</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Dumbass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dumbass" />
+    <MESSAGE value="нашёл еврей пачку денег, а там не хватает" />
+    <MESSAGE value="187" />
+    <MESSAGE value="37" />
+    <MESSAGE value="266249847" />
+    <MESSAGE value="757543052" />
+    <MESSAGE value="19: 41" />
+    <MESSAGE value="19: 41; 20: 14, 35; 21: 32" />
+    <MESSAGE value="92 838850571" />
+    <MESSAGE value="222" />
+    <MESSAGE value="115" />
+    <MESSAGE value="Как сказала бы кровь здорового человека: «Пора сворачиваться»" />
+    <MESSAGE value="40031 148" />
+    <MESSAGE value="2377" />
+    <MESSAGE value="решить не смог, был повержен генератором" />
+    <MESSAGE value="66" />
+    <MESSAGE value="21" />
+    <MESSAGE value="18" />
+    <MESSAGE value="25" />
+    <MESSAGE value="33" />
+    <option name="LAST_COMMIT_MESSAGE" value="33" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
