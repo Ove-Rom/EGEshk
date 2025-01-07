@@ -8,7 +8,6 @@ for x in alph[1:35][::-1]:
     for i in str(num):
         if i in digits:
             nums[int(i)] += 1
-    reversed(nums)
-    if num % nums.index(max(nums)) ** 2 == 0:
-       print(num // nums.index(max(nums)) ** 2)
+    if num % (9 - nums[::-1].index(max(nums))) ** 2 == 0:
+       print(num // (9 - nums[::-1].index(max(nums))) ** 2)
        break
