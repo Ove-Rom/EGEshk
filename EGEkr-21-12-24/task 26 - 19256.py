@@ -12,7 +12,7 @@ for info in data:
         base[id] = [num]
     else:
         base[id].append(num)
-# print(base)
+print(len(sorted(base[40031], key = int)))
 nums = " ".join([str(i) for i in range(1, 100001)])
 leaderId = 0
 leaderNums = 0
