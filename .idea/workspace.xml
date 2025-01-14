@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="xyzw" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="cdba">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +64,10 @@
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
     "Python.task 2 - 1.executor": "Run",
+    "Python.task 2 - 1846.executor": "Run",
     "Python.task 2 - 18917.executor": "Run",
     "Python.task 2 - 19234.executor": "Run",
+    "Python.task 2 - 4582.executor": "Run",
     "Python.task 23 - 19253.executor": "Run",
     "Python.task 24 - 19254.executor": "Run",
     "Python.task 25 - 19255.executor": "Run",
@@ -432,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736865641406</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="cdba">
+      <option name="closed" value="true" />
+      <created>1736867626122</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736867626122</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="92 838850571" />
     <MESSAGE value="115" />
     <MESSAGE value="Как сказала бы кровь здорового человека: «Пора сворачиваться»" />
     <MESSAGE value="40031 148" />
@@ -461,7 +472,8 @@
     <MESSAGE value="stra" />
     <MESSAGE value="Ну мы тут с Drugанычем чёто накумекали, было прикольно" />
     <MESSAGE value="xyzw" />
-    <option name="LAST_COMMIT_MESSAGE" value="xyzw" />
+    <MESSAGE value="cdba" />
+    <option name="LAST_COMMIT_MESSAGE" value="cdba" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
