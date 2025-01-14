@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="stra">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="Ну мы тут с Drugанычем чёто накумекали, было прикольно">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.task 14 - 19406.executor": "Run",
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
+    "Python.task 2 - 1.executor": "Run",
     "Python.task 2 - 18917.executor": "Run",
     "Python.task 2 - 19234.executor": "Run",
     "Python.task 23 - 19253.executor": "Run",
@@ -417,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736523461801</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Ну мы тут с Drugанычем чёто накумекали, было прикольно">
+      <option name="closed" value="true" />
+      <created>1736863068945</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1736863068946</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="19: 41" />
     <MESSAGE value="19: 41; 20: 14, 35; 21: 32" />
     <MESSAGE value="92 838850571" />
     <MESSAGE value="115" />
@@ -446,7 +454,8 @@
     <MESSAGE value="18" />
     <MESSAGE value="тут чёто поменялось, хз что" />
     <MESSAGE value="stra" />
-    <option name="LAST_COMMIT_MESSAGE" value="stra" />
+    <MESSAGE value="Ну мы тут с Drugанычем чёто накумекали, было прикольно" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ну мы тут с Drugанычем чёто накумекали, было прикольно" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
