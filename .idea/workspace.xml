@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="wzyx" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="zxyw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +64,13 @@
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
     "Python.task 2 - 1.executor": "Run",
+    "Python.task 2 - 17665.executor": "Run",
     "Python.task 2 - 1846.executor": "Run",
     "Python.task 2 - 18917.executor": "Run",
     "Python.task 2 - 19234.executor": "Run",
     "Python.task 2 - 4582.executor": "Run",
     "Python.task 2 - 4607.executor": "Run",
+    "Python.task 2 - 6283.executor": "Run",
     "Python.task 23 - 19253.executor": "Run",
     "Python.task 24 - 19254.executor": "Run",
     "Python.task 25 - 19255.executor": "Run",
@@ -451,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736868202459</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="zxyw">
+      <option name="closed" value="true" />
+      <created>1736868844845</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1736868844845</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Как сказала бы кровь здорового человека: «Пора сворачиваться»" />
     <MESSAGE value="40031 148" />
     <MESSAGE value="2377" />
     <MESSAGE value="решить не смог, был повержен генератором" />
@@ -480,7 +491,8 @@
     <MESSAGE value="xyzw" />
     <MESSAGE value="cdba" />
     <MESSAGE value="wzyx" />
-    <option name="LAST_COMMIT_MESSAGE" value="wzyx" />
+    <MESSAGE value="zxyw" />
+    <option name="LAST_COMMIT_MESSAGE" value="zxyw" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
