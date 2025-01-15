@@ -2,7 +2,7 @@ from functools import reduce
 from operator import mul
 
 
-for n in range(22229, 100000):
+for n in range(10000, 100000):
     n = str(n)
     maxx = max(int(i) for i in n)
     minn = min(int(i) for i in n)
