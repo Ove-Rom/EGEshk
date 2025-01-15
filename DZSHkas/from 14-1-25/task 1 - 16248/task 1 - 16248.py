@@ -1,5 +1,6 @@
 from itertools import permutations
 
+
 graph = "ab ac ad bc cd ce de df ef eg fg".split()
 matrix = "34 3456 1245 1237 236 25 14".split()
 
