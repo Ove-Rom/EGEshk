@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="перестройка...">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="yxwz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +82,7 @@
     "Python.task 8 - 17627.executor": "Run",
     "Python.tasks 19, 20, 21 - 19251.executor": "Run",
     "Python.tasks 19, 20, 21 - 5441.executor": "Run",
+    "Python.tsak 2 - 9733.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -516,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736953816373</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="yxwz">
+      <option name="closed" value="true" />
+      <created>1736955845451</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1736955845451</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="66" />
     <MESSAGE value="25" />
     <MESSAGE value="33" />
     <MESSAGE value="40031 148 (ура победа)" />
@@ -545,7 +553,8 @@
     <MESSAGE value="8" />
     <MESSAGE value="zyxw" />
     <MESSAGE value="перестройка..." />
-    <option name="LAST_COMMIT_MESSAGE" value="перестройка..." />
+    <MESSAGE value="yxwz" />
+    <option name="LAST_COMMIT_MESSAGE" value="yxwz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
