@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="22229">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="4352">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,14 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00012" summary="115">
-      <option name="closed" value="true" />
-      <created>1735239869469</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1735239869469</updated>
     </task>
     <task id="LOCAL-00013" summary="2377">
       <option name="closed" value="true" />
@@ -542,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736967532587</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="4352">
+      <option name="closed" value="true" />
+      <created>1736969421003</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1736969421003</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="46926015711" />
     <MESSAGE value="34" />
     <MESSAGE value="38" />
     <MESSAGE value="1802125" />
@@ -571,7 +570,8 @@
     <MESSAGE value="24" />
     <MESSAGE value="42" />
     <MESSAGE value="22229" />
-    <option name="LAST_COMMIT_MESSAGE" value="22229" />
+    <MESSAGE value="4352" />
+    <option name="LAST_COMMIT_MESSAGE" value="4352" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -580,11 +580,6 @@
           <url>file://$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DZSHkas/from 14-1-25/task 8 - 11292.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
