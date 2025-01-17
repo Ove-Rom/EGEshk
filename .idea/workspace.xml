@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="z y w x" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="w x y z" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -65,6 +66,7 @@
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
     "Python.task 2 - 1.executor": "Run",
+    "Python.task 2 - 12671.executor": "Run",
     "Python.task 2 - 13077.executor": "Run",
     "Python.task 2 - 13089.executor": "Run",
     "Python.task 2 - 13797.executor": "Run",
@@ -78,6 +80,7 @@
     "Python.task 2 - 4582.executor": "Run",
     "Python.task 2 - 4607.executor": "Run",
     "Python.task 2 - 6283.executor": "Run",
+    "Python.task 2 - 6837.executor": "Run",
     "Python.task 2 - 7667.executor": "Run",
     "Python.task 2 - 9771.executor": "Run",
     "Python.task 2 - 9825.executor": "Run",
@@ -155,14 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00028" summary="3126">
-      <option name="closed" value="true" />
-      <created>1736260674080</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1736260674080</updated>
     </task>
     <task id="LOCAL-00029" summary="46926015711">
       <option name="closed" value="true" />
@@ -548,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737127475971</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="w x y z">
+      <option name="closed" value="true" />
+      <created>1737128033315</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1737128033315</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -571,13 +574,13 @@
     <MESSAGE value="19) 41&#10;20) 14 35&#10;21) 32" />
     <MESSAGE value="19) 94&#10;20) 51 100&#10;21) 103" />
     <MESSAGE value="перестройка..." />
-    <MESSAGE value="w x y z" />
     <MESSAGE value="w z y x" />
     <MESSAGE value="c d b a" />
     <MESSAGE value="65" />
     <MESSAGE value="u y w z x" />
     <MESSAGE value="z y w x" />
-    <option name="LAST_COMMIT_MESSAGE" value="z y w x" />
+    <MESSAGE value="w x y z" />
+    <option name="LAST_COMMIT_MESSAGE" value="w x y z" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
