@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="казнь">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="22229">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9733/task 2 - 9733 DATA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9733/tsak 2 - 9733.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9771/task 2 - 9771 DATA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9771/task 2 - 9771.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9825/task 2 - 9825 DATA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 9825/task 2 - 9825.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,60 +45,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.taask 6 19238.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task  1 - 17664.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 16248.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 1845.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 18916.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 19233.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 4581.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 4606.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 9732.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 - 9770.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1 -17514.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 12 - 19244.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 14 - 12246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 14 - 18122.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 14 - 19246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 14 - 19406.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 16 - 19248.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 17 - 19249.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 17621.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 17665.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 1846.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 18576.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 18917.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 19234.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 4582.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 4607.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 6283.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 9771.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 2 - 9825.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 23 - 19253.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 24 - 19254.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 25 - 19255.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 26 - 19256.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 5 - 14327.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 5 - 14330.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 5 - 18578.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 5 - 19237.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 8 - 11292.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 8 - 13298.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 8 - 17627.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tasks 19, 20, 21 - 19251.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tasks 19, 20, 21 - 5441.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tsak 2 - 9733.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.23664123&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.taask 6 19238.executor": "Run",
+    "Python.task  1 - 17664.executor": "Run",
+    "Python.task 1 - 16248.executor": "Run",
+    "Python.task 1 - 1845.executor": "Run",
+    "Python.task 1 - 18916.executor": "Run",
+    "Python.task 1 - 19233.executor": "Run",
+    "Python.task 1 - 4581.executor": "Run",
+    "Python.task 1 - 4606.executor": "Run",
+    "Python.task 1 - 9732.executor": "Run",
+    "Python.task 1 - 9770.executor": "Run",
+    "Python.task 1 -17514.executor": "Run",
+    "Python.task 12 - 19244.executor": "Run",
+    "Python.task 14 - 12246.executor": "Run",
+    "Python.task 14 - 18122.executor": "Run",
+    "Python.task 14 - 19246.executor": "Run",
+    "Python.task 14 - 19406.executor": "Run",
+    "Python.task 16 - 19248.executor": "Run",
+    "Python.task 17 - 19249.executor": "Run",
+    "Python.task 2 - 1.executor": "Run",
+    "Python.task 2 - 17621.executor": "Run",
+    "Python.task 2 - 17665.executor": "Run",
+    "Python.task 2 - 1846.executor": "Run",
+    "Python.task 2 - 18576.executor": "Run",
+    "Python.task 2 - 18917.executor": "Run",
+    "Python.task 2 - 19234.executor": "Run",
+    "Python.task 2 - 4582.executor": "Run",
+    "Python.task 2 - 4607.executor": "Run",
+    "Python.task 2 - 6283.executor": "Run",
+    "Python.task 2 - 9771.executor": "Run",
+    "Python.task 2 - 9825.executor": "Run",
+    "Python.task 23 - 19253.executor": "Run",
+    "Python.task 24 - 19254.executor": "Run",
+    "Python.task 25 - 19255.executor": "Run",
+    "Python.task 26 - 19256.executor": "Run",
+    "Python.task 5 - 14327.executor": "Run",
+    "Python.task 5 - 14330.executor": "Run",
+    "Python.task 5 - 18578.executor": "Run",
+    "Python.task 5 - 19237.executor": "Run",
+    "Python.task 8 - 11292.executor": "Run",
+    "Python.task 8 - 13298.executor": "Run",
+    "Python.task 8 - 17627.executor": "Run",
+    "Python.tasks 19, 20, 21 - 19251.executor": "Run",
+    "Python.tasks 19, 20, 21 - 5441.executor": "Run",
+    "Python.tasks 19, 20, 21 - 5885.executor": "Run",
+    "Python.tsak 2 - 9733.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "copyright",
+    "settings.editor.splitter.proportion": "0.23664123"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZSHkas\from 14-1-25\task 5 - 14330" />
@@ -155,22 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Как сказала бы кровь здорового человека: «Пора сворачиваться»">
-      <option name="closed" value="true" />
-      <created>1735242536056</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1735242536056</updated>
-    </task>
-    <task id="LOCAL-00015" summary="40031 148">
-      <option name="closed" value="true" />
-      <created>1735244930716</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1735244930716</updated>
     </task>
     <task id="LOCAL-00016" summary="2377">
       <option name="closed" value="true" />
@@ -548,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736970036289</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="казнь">
+      <option name="closed" value="true" />
+      <created>1736970093643</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1736970093643</updated>
+    </task>
+    <task id="LOCAL-00064" summary="22229">
+      <option name="closed" value="true" />
+      <created>1736970284196</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1736970284196</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -574,10 +569,10 @@
     <MESSAGE value="11" />
     <MESSAGE value="24" />
     <MESSAGE value="42" />
-    <MESSAGE value="22229" />
     <MESSAGE value="4352" />
     <MESSAGE value="казнь" />
-    <option name="LAST_COMMIT_MESSAGE" value="казнь" />
+    <MESSAGE value="22229" />
+    <option name="LAST_COMMIT_MESSAGE" value="22229" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
