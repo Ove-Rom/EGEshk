@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="22229">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="19) 28&#10;20) 31 37&#10;21) 50">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,14 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00016" summary="2377">
-      <option name="closed" value="true" />
-      <created>1735246182215</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1735246182215</updated>
     </task>
     <task id="LOCAL-00017" summary="решить не смог, был повержен генератором">
       <option name="closed" value="true" />
@@ -543,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736970284196</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="19) 28&#10;20) 31 37&#10;21) 50">
+      <option name="closed" value="true" />
+      <created>1737106455001</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1737106455002</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="38" />
     <MESSAGE value="1802125" />
     <MESSAGE value="83175" />
     <MESSAGE value="18" />
@@ -572,7 +571,8 @@
     <MESSAGE value="4352" />
     <MESSAGE value="казнь" />
     <MESSAGE value="22229" />
-    <option name="LAST_COMMIT_MESSAGE" value="22229" />
+    <MESSAGE value="19) 28&#10;20) 31 37&#10;21) 50" />
+    <option name="LAST_COMMIT_MESSAGE" value="19) 28&#10;20) 31 37&#10;21) 50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
