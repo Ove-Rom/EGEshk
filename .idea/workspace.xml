@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="19) 41&#10;20) 14 35&#10;21) 32">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 1 - 16248/task 1 - 16248 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 1 - 16248/task 1 - 16248 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 1 - 16248/task 1 - 16248.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 1 - 16248/task 1 - 16248.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 1 - 19233/task 1 - 19233 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 1 - 19233/task 1 - 19233 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 1 - 19233/task 1 - 19233.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 1 - 19233/task 1 - 19233.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 17621/task 2 - 17621 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 17621/task 2 - 17621 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 17621/task 2 - 17621.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 17621/task 2 - 17621.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 17665/task 2 - 17665 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 17665/task 2 - 17665 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 17665/task 2 - 17665.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 17665/task 2 - 17665.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 18576/task 2 - 18576 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 18576/task 2 - 18576 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 18576/task 2 - 18576.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 18576/task 2 - 18576.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 19234/task 2 - 19234 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 19234/task 2 - 19234 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 2 - 19234/task 2 - 19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 2 - 19234/task 2 - 19234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 5 - 14330/task 5 - 14330 DATA.png" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 5 - 14330/task 5 - 14330 DATA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 5 - 14330/task 5 - 14330.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 5 - 14330/task 5 - 14330.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZSHkas/from 14-1-25/task 8 - 11292.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/from 14-1-25/task 8 - 11292.py" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="перестройка...">
+      <change beforePath="$PROJECT_DIR$/14-1-25/task 2 - 4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-1-25/task 2 - 4582.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,22 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00018" summary="66">
-      <option name="closed" value="true" />
-      <created>1735311024335</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1735311024335</updated>
-    </task>
-    <task id="LOCAL-00019" summary="21">
-      <option name="closed" value="true" />
-      <created>1735311676756</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1735311676756</updated>
     </task>
     <task id="LOCAL-00020" summary="18">
       <option name="closed" value="true" />
@@ -559,11 +528,26 @@
       <option name="project" value="LOCAL" />
       <updated>1737108071513</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="19) 94&#10;20) 51 100&#10;21) 103">
+      <option name="closed" value="true" />
+      <created>1737122666777</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122666777</updated>
+    </task>
+    <task id="LOCAL-00068" summary="перестройка...">
+      <option name="closed" value="true" />
+      <created>1737122689835</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122689835</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="83175" />
     <MESSAGE value="18" />
     <MESSAGE value="тут чёто поменялось, хз что" />
     <MESSAGE value="stra" />
@@ -575,7 +559,6 @@
     <MESSAGE value="8" />
     <MESSAGE value="zyxw" />
     <MESSAGE value="yxwz" />
-    <MESSAGE value="перестройка..." />
     <MESSAGE value="w x y z" />
     <MESSAGE value="z w y x" />
     <MESSAGE value="y x w z" />
@@ -588,7 +571,9 @@
     <MESSAGE value="22229" />
     <MESSAGE value="19) 28&#10;20) 31 37&#10;21) 50" />
     <MESSAGE value="19) 41&#10;20) 14 35&#10;21) 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="19) 41&#10;20) 14 35&#10;21) 32" />
+    <MESSAGE value="19) 94&#10;20) 51 100&#10;21) 103" />
+    <MESSAGE value="перестройка..." />
+    <option name="LAST_COMMIT_MESSAGE" value="перестройка..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

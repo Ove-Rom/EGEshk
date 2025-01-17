@@ -1,4 +1,4 @@
-from itertools import product, repeat, permutations
+from itertools import product, permutations
 
 
 def f(x, y, z, w):
