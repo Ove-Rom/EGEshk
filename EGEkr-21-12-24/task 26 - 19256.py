@@ -1,7 +1,7 @@
 with open("26_19256.txt") as file:
     file.readline()
     data = file.read().split("\n")
-# data = ((50, 125), (50, 127), (50, 126), (50, 72), (50, 126), (40, 3), (60, 33), (60, 33), (40, 4))
+# boxes = ((50, 125), (50, 127), (50, 126), (50, 72), (50, 126), (40, 3), (60, 33), (60, 33), (40, 4))
 base = dict()
 
 for info in data:
@@ -26,7 +26,7 @@ for student in base.items():
     for i in range(len(allCompleted)):
         for j in range(i, len(allCompleted)):
             if ' ' + ' '.join(allCompleted[i:j + 1]) + ' ' in nums:
-                # print(' '.join(allCompleted[i:st + 1]))
+                # print(' '.join(allCompleted[box:st + 1]))
                 learned.append(j - i + 1)
     count = max(learned)
 

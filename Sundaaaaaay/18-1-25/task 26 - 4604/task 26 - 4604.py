@@ -6,8 +6,8 @@ data = sorted(data)[::-1]
 
 minS = data[0]
 count = 1
-# data = [43, 40, 40, 32, 30]
-# print(data)
+# boxes = [43, 40, 40, 32, 30]
+# print(boxes)
 for i in range(len(data)):
     if minS - data[i] >= 3:
         minS = data[i]

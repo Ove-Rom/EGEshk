@@ -1,22 +1,22 @@
 # with open("26_17565.txt") as file:
 #     file.readline()
-#     data = [(int(i.split()[0]), int(i.split()[1]) + int(i.split()[2]) + int(i.split()[3]), int(i.split()[4])) for i in file]
+#     boxes = [(int(box.split()[0]), int(box.split()[1]) + int(box.split()[2]) + int(box.split()[3]), int(box.split()[4])) for box in file]
 # places = 485
 #
-# data = sorted(data, key=lambda x: (x[1], x[-1], x[0]), reverse=True)
-# print(data)
+# boxes = sorted(boxes, key=lambda x: (x[1], x[-1], x[0]), reverse=True)
+# print(boxes)
 # summ = 0
 # count = 0
 #
-# for i in data:
-#     summ += i[1]
+# for box in boxes:
+#     summ += box[1]
 #
 # prohodnoy = round(summ / 998, 0)
 # print(prohodnoy)
 #
-# for i in data:
-#     if i[1] >= 155:
-#         id = i[0]
+# for box in boxes:
+#     if box[1] >= 155:
+#         id = box[0]
 #         count += 1
 #     # else: break
 #
