@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="48 441">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="162&#10;788">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +128,7 @@
     "Python.task 25 - 19255.executor": "Run",
     "Python.task 25.executor": "Run",
     "Python.task 26 - 17565.executor": "Debug",
+    "Python.task 26 - 17786.executor": "Run",
     "Python.task 26 - 19256.executor": "Run",
     "Python.task 26 - 19727.executor": "Run",
     "Python.task 26 - 4604.executor": "Run",
@@ -160,18 +161,18 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/25-1-25/task 26 - 19727",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/25-1-25/task 26 - 17786",
     "settings.editor.selected.configurable": "copyright",
     "settings.editor.splitter.proportion": "0.23664123"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\25-1-25\task 26 - 17786" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\25-1-25\task 26 - 19727" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 26" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 24" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 17" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\task 17 - 2399" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 24" />
@@ -225,14 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00092" summary="9">
-      <option name="closed" value="true" />
-      <created>1737471455207</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1737471455207</updated>
     </task>
     <task id="LOCAL-00093" summary="9">
       <option name="closed" value="true" />
@@ -618,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1737802099039</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="162&#10;788">
+      <option name="closed" value="true" />
+      <created>1737809547627</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1737809547627</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1923296823" />
     <MESSAGE value="71" />
     <MESSAGE value="1346" />
     <MESSAGE value="42" />
@@ -647,7 +647,8 @@
     <MESSAGE value="28" />
     <MESSAGE value="69750 129792 69752 122080 69756 139536 69758 75152 609750 1103232 609752 1291248 609754 630840" />
     <MESSAGE value="48 441" />
-    <option name="LAST_COMMIT_MESSAGE" value="48 441" />
+    <MESSAGE value="162&#10;788" />
+    <option name="LAST_COMMIT_MESSAGE" value="162&#10;788" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -658,6 +659,13 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
