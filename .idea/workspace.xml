@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="2170 1280">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2003/17_2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2003/17_2003.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2003/task 17 - 2003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2003/task 17 - 2003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2017/17_2017.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2017/17_2017.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2017/task 17 - 2017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2017/task 17 - 2017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2239/17_2239.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2239/17_2239.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2239/task 17 - 2239.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2239/task 17 - 2239.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2399/17_2399.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2399/17_2399.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2399/task 17 - 2399.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2399/task 17 - 2399.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2402/17_2402.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2402/17_2402.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/task 17 - 2402/task 17 - 2402.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 17/task 17 - 2402/task 17 - 2402.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 18199.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 18199.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 18268.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 18268.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 19251.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 19251.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 2712.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 2712.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 5441.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 5441.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21 - 5885.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draganov moment/tasks 19, 20, 21/tasks 19, 20, 21 - 5885.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +138,7 @@
     "Python.task 2 - 9825.executor": "Run",
     "Python.task 2.executor": "Run",
     "Python.task 23 - 19253.executor": "Run",
+    "Python.task 23.executor": "Run",
     "Python.task 24 - 19254.executor": "Run",
     "Python.task 25 - 19255.executor": "Run",
     "Python.task 26 - 17565.executor": "Debug",
@@ -169,6 +186,8 @@
       <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\task 17 - 2017" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 19, 20, 21" />
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 17" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\24-1-25" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZSHkas\from 14-1-25\task 5 - 14330" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZSHkas\from 14-1-25\task 2 - 6283" />
@@ -218,22 +237,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00084" summary="b c a">
-      <option name="closed" value="true" />
-      <created>1737192720884</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1737192720884</updated>
-    </task>
-    <task id="LOCAL-00085" summary="2767 51">
-      <option name="closed" value="true" />
-      <created>1737211004261</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1737211004261</updated>
     </task>
     <task id="LOCAL-00086" summary="44101521 48825239">
       <option name="closed" value="true" />
@@ -611,12 +614,26 @@
       <option name="project" value="LOCAL" />
       <updated>1737753115727</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="20) 139&#10;20) 129 138&#10;20) 68">
+      <option name="closed" value="true" />
+      <created>1737793382352</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1737793382353</updated>
+    </task>
+    <task id="LOCAL-00134" summary="17">
+      <option name="closed" value="true" />
+      <created>1737795404505</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1737795404505</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="74452 12" />
-    <MESSAGE value="91 2627" />
     <MESSAGE value="34 11169" />
     <MESSAGE value="15 6410" />
     <MESSAGE value="513" />
@@ -640,7 +657,9 @@
     <MESSAGE value="85 195" />
     <MESSAGE value="43" />
     <MESSAGE value="2170 1280" />
-    <option name="LAST_COMMIT_MESSAGE" value="2170 1280" />
+    <MESSAGE value="20) 139&#10;20) 129 138&#10;20) 68" />
+    <MESSAGE value="17" />
+    <option name="LAST_COMMIT_MESSAGE" value="17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
