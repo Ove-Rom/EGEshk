@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="-13">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="2170 1280">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,6 +148,7 @@
     "Python.tasks 19, 20, 21 - 2712.executor": "Run",
     "Python.tasks 19, 20, 21 - 5441.executor": "Run",
     "Python.tasks 19, 20, 21 - 5885.executor": "Run",
+    "Python.tasks 19, 20, 21.executor": "Run",
     "Python.tsak 2 - 9733.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -205,7 +206,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -217,30 +218,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00081" summary="y w x z">
-      <option name="closed" value="true" />
-      <created>1737191839801</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1737191839801</updated>
-    </task>
-    <task id="LOCAL-00082" summary="b d c a">
-      <option name="closed" value="true" />
-      <created>1737192218319</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1737192218319</updated>
-    </task>
-    <task id="LOCAL-00083" summary="y x z&#10;(в чём подвох?)">
-      <option name="closed" value="true" />
-      <created>1737192424801</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1737192424802</updated>
     </task>
     <task id="LOCAL-00084" summary="b c a">
       <option name="closed" value="true" />
@@ -610,13 +587,34 @@
       <option name="project" value="LOCAL" />
       <updated>1737751463261</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="85 195">
+      <option name="closed" value="true" />
+      <created>1737752728649</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1737752728649</updated>
+    </task>
+    <task id="LOCAL-00131" summary="43">
+      <option name="closed" value="true" />
+      <created>1737752739429</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1737752739429</updated>
+    </task>
+    <task id="LOCAL-00132" summary="2170 1280">
+      <option name="closed" value="true" />
+      <created>1737753115727</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1737753115727</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17" />
-    <MESSAGE value="168" />
-    <MESSAGE value="445 9738" />
     <MESSAGE value="74452 12" />
     <MESSAGE value="91 2627" />
     <MESSAGE value="34 11169" />
@@ -639,7 +637,10 @@
     <MESSAGE value="18" />
     <MESSAGE value="20157588" />
     <MESSAGE value="-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="-13" />
+    <MESSAGE value="85 195" />
+    <MESSAGE value="43" />
+    <MESSAGE value="2170 1280" />
+    <option name="LAST_COMMIT_MESSAGE" value="2170 1280" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,11 +649,6 @@
           <url>file://$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DZshkas/OMEGAprobnik/task 17/task 17.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
