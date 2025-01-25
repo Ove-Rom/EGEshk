@@ -14,7 +14,7 @@ def toq(a, q):
 pattern = ''.join([str(i % 2 == 0) for i in range(8)])
 count = 0
 
-for i in range(int("100000", 12), int("1000000", 12)):
+for i in range(int("1000000", 12), int("10000000", 12)):
     n = toq(i, 12)
     c1 = n.count('b') == 2
     c2 = ''.join(str(int(i, 12) % 2 == 0) for i in n) in pattern
