@@ -26,7 +26,7 @@ for student in base.items():
     for i in range(len(allCompleted)):
         for j in range(i, len(allCompleted)):
             if ' ' + ' '.join(allCompleted[i:j + 1]) + ' ' in nums:
-                # print(' '.join(allCompleted[i:j + 1]))
+                # print(' '.join(allCompleted[i:st + 1]))
                 learned.append(j - i + 1)
     count = max(learned)
 
