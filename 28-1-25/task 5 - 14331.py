@@ -12,7 +12,7 @@ for n in range(1000):
     if s % 3 == 0:
         r += "212"
     else:
-        r += toq((s % 3) * 2, 3)
+        r += toq(s * 2, 3)
     r = int(r, 3)
     if r > 490: ans.append(r)
 
