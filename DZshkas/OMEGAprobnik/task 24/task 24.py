@@ -1,9 +1,14 @@
+from itertools import permutations
+
 with open("24_8510.txt") as f:
     data = f.read()
 
-data = data.replace('N', '*')
-data = data.replace('P', '*')
-data = data.replace('O', '*')
+for i in permutations("PNO", 2):
+    data = data.replace(''.join(i), '*')
+
+while "*P" in data or "*N" in data or "*O" in data or "P*" in data or "N*" in data or "O*" in data:
+    for i in "PNO":
+        data = data.replace(f"*{i}", '*').replace(f"{i}*", '*')
 
 data = data.split('*')
 
