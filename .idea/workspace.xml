@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="3493">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="Анекдот: Как называют сумасшедшего француза?&#10;&#10;Франшиза" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,11 +184,11 @@
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\25-1-25\task 26 - 17786" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 24" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 19, 20, 21" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 17" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\24-1-25" />
     </key>
   </component>
   <component name="RunManager">
@@ -237,22 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00109" summary="513">
-      <option name="closed" value="true" />
-      <created>1737720993072</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1737720993072</updated>
-    </task>
-    <task id="LOCAL-00110" summary="1927756883">
-      <option name="closed" value="true" />
-      <created>1737721273257</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1737721273257</updated>
     </task>
     <task id="LOCAL-00111" summary="619">
       <option name="closed" value="true" />
@@ -630,12 +612,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738069963368</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="Анекдот: У уставшего самурая есть только пу-пу-пуууть">
+      <option name="closed" value="true" />
+      <created>1738165609415</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1738165609416</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Анекдот: Как называют сумасшедшего француза?&#10;&#10;Франшиза">
+      <option name="closed" value="true" />
+      <created>1738165717162</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1738165717163</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="85 195" />
-    <MESSAGE value="2170 1280" />
     <MESSAGE value="20) 139&#10;20) 129 138&#10;20) 68" />
     <MESSAGE value="17" />
     <MESSAGE value="пу пу пууу" />
@@ -659,13 +655,15 @@
     <MESSAGE value="494" />
     <MESSAGE value="308" />
     <MESSAGE value="3493" />
-    <option name="LAST_COMMIT_MESSAGE" value="3493" />
+    <MESSAGE value="Анекдот: У уставшего самурая есть только пу-пу-пуууть" />
+    <MESSAGE value="Анекдот: Как называют сумасшедшего француза?&#10;&#10;Франшиза" />
+    <option name="LAST_COMMIT_MESSAGE" value="Анекдот: Как называют сумасшедшего француза?&#10;&#10;Франшиза" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EGEkr-21-12-24/task 26 - 19256.py</url>
+          <url>file://$PROJECT_DIR$/Normeses/EGEkr-21-12-24/task 26 - 19256.py</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
