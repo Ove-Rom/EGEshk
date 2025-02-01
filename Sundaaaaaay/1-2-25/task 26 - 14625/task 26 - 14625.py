@@ -9,9 +9,6 @@ m = int(m) * 2 ** 20
 
 # data = sorted(data, key = lambda x: x[1] * 2**20 if x[-1] == "mb" else x[1] * 2**10 if x[-1] == "kb" else x[1])
 
-# Как называется избушка Бабы-Яги лесбиянки?
-# Лисбушка.
-
 for i in range(len(data)):
     if data[i][-1] == "mb":
         data[i] = [data[i][0], data[i][1] * 2 ** 20]
@@ -38,4 +35,3 @@ for i in data:
     if trashedCount[i[0] - 1] < r:
         trashedCount[i[0] - 1] += 1
         trashedSum += i[1]
-        minTrashed = i[1]
