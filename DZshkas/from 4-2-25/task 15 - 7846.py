@@ -7,7 +7,7 @@ def f (x):
     a = a1 <= x <= a2
     return (not((not p) <= q)) <= (a <= ((not q) <= p))
 
-line = [x/10 for x in range(120, 140)]
+line = [x/10 for x in range(120, 240)]
 ans = []
 
 for a1, a2 in combinations(line, 2):
