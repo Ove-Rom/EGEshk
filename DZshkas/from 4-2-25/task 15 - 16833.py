@@ -7,7 +7,7 @@ def f (x):
     a = a1 <= x <= a2
     return (a and not q) <= (p or q)
 
-line = [x/5 for x in range(240, 1190)]
+line = [x/10 for x in range(240, 1190)]
 ans = []
 
 for a1, a2 in combinations(line, 2):
