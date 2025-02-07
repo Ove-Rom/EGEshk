@@ -9,7 +9,7 @@ def f(x):
 
 
 ans = []
-line = [x // 5 for x in range(60 * 5, 120 * 5)]
+line = [x / 5 for x in range(60 * 5, 120 * 5)]
 
 for a1, a2 in combinations(line, 2):
     if all(f(x) for x in line):
