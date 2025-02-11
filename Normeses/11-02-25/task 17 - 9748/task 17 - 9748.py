@@ -12,6 +12,6 @@ for i in range(len(data) - 2):
     if c1 ^ c2 ^ c3 and not (c1 & c2 & c3):
         if sum(data[i:i + 3]) >= maxN:
             count += 1
-            maxCount = max(maxCount, sum(data[i:i + 4]))
+            maxCount = max(maxCount, sum(data[i:i + 3]))
 
 print(count, maxCount)
