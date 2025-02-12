@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1214 176024">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1214 176024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +119,7 @@
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 16.executor": "Run",
     "Python.task 17 - 17873.executor": "Run",
+    "Python.task 17 - 18185.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
     "Python.task 17 - 2003.executor": "Run",
     "Python.task 17 - 2017.executor": "Run",
@@ -700,11 +699,6 @@
           <url>file://$PROJECT_DIR$/Normeses/EGEkr-21-12-24/task 26 - 19256.py</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DZshkas/from 11-2-25/task 17 - 4705/task 17 - 4705.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
