@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="55383364 13845841&#10;56796482 28398241&#10;58492928 28561&#10;59105344 923521&#10;59969536 14641&#10;59973152 1874161" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="92 838850571" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +118,7 @@
     "Python.task 15.executor": "Run",
     "Python.task 16 - 19248.executor": "Run",
     "Python.task 16.executor": "Run",
+    "Python.task 17 - 17873.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
     "Python.task 17 - 2003.executor": "Run",
     "Python.task 17 - 2017.executor": "Run",
@@ -228,7 +229,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/DZshkas/from 11-2-25/task 17 - 19249",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/DZshkas/from 11-2-25/task 17 - 17873",
     "settings.editor.selected.configurable": "copyright",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -236,11 +237,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\from 11-2-25\task 17 - 17873" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\from 11-2-25\task 17 - 19249" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25\task 17 - 5758" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25\task 17 - 9840" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25\task 17 - 9786" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25\task 17 - 9748" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25" />
@@ -265,14 +266,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00178" summary="23">
-      <option name="closed" value="true" />
-      <created>1738682610609</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1738682610609</updated>
     </task>
     <task id="LOCAL-00179" summary="6">
       <option name="closed" value="true" />
@@ -658,11 +651,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739347792566</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="92 838850571">
+      <option name="closed" value="true" />
+      <created>1739348480322</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1739348480322</updated>
+    </task>
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="25" />
     <MESSAGE value="36" />
     <MESSAGE value="22" />
     <MESSAGE value="23" />
@@ -687,7 +687,8 @@
     <MESSAGE value="1591 9233" />
     <MESSAGE value="254546 1343" />
     <MESSAGE value="55383364 13845841&#10;56796482 28398241&#10;58492928 28561&#10;59105344 923521&#10;59969536 14641&#10;59973152 1874161" />
-    <option name="LAST_COMMIT_MESSAGE" value="55383364 13845841&#10;56796482 28398241&#10;58492928 28561&#10;59105344 923521&#10;59969536 14641&#10;59973152 1874161" />
+    <MESSAGE value="92 838850571" />
+    <option name="LAST_COMMIT_MESSAGE" value="92 838850571" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
