@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="31">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="56">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -285,14 +285,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00209" summary="389 133">
-      <option name="closed" value="true" />
-      <created>1739033454757</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1739033454758</updated>
     </task>
     <task id="LOCAL-00210" summary="тут могла быть ваша реклама">
       <option name="closed" value="true" />
@@ -678,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739558493454</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <task id="LOCAL-00258" summary="56">
+      <option name="closed" value="true" />
+      <created>1739561726475</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1739561726475</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7440" />
     <MESSAGE value="3240" />
     <MESSAGE value="222" />
     <MESSAGE value="6860" />
@@ -707,7 +706,8 @@
     <MESSAGE value="w x y z" />
     <MESSAGE value="7520" />
     <MESSAGE value="31" />
-    <option name="LAST_COMMIT_MESSAGE" value="31" />
+    <MESSAGE value="56" />
+    <option name="LAST_COMMIT_MESSAGE" value="56" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
