@@ -11,9 +11,12 @@ def toq(a, q):
 n = 3 * 15**1140 + 2 * 15**1025 + 15**923 - 3 * 15**85 + 2 * 15 ** 74 + 3
 n = toq(n, 15)
 
-c = 0
-
+c = 1
+ans = []
 for i in range(len(n) - 1):
     if n[i] == n[i+1]: c += 1
+    else:
+        ans.append(c)
+        c = 1
 
-print(c)
+print(max(ans))
