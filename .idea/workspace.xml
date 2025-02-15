@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="A) 1217&#10;B) хз((">
-      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 8.py" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/tasks 19, 20, 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/tasks 19, 20, 21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,22 +286,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00228" summary="1214 176024">
-      <option name="closed" value="true" />
-      <created>1739348817134</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1739348817134</updated>
-    </task>
-    <task id="LOCAL-00229" summary="56">
-      <option name="closed" value="true" />
-      <created>1739353967235</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1739353967236</updated>
     </task>
     <task id="LOCAL-00230" summary="56">
       <option name="closed" value="true" />
@@ -679,7 +663,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739632019410</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="243698">
+      <option name="closed" value="true" />
+      <created>1739632339250</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1739632339250</updated>
+    </task>
+    <task id="LOCAL-00278" summary="1">
+      <option name="closed" value="true" />
+      <created>1739632782763</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1739632782763</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -692,12 +692,10 @@
     <MESSAGE value="7520" />
     <MESSAGE value="31" />
     <MESSAGE value="56" />
-    <MESSAGE value="243698" />
     <MESSAGE value="15293" />
     <MESSAGE value="5" />
     <MESSAGE value="386" />
     <MESSAGE value="9" />
-    <MESSAGE value="1" />
     <MESSAGE value="4194304" />
     <MESSAGE value="53 64179" />
     <MESSAGE value="2400 881" />
@@ -708,7 +706,9 @@
     <MESSAGE value="121025674 15562&#10;1209805674 155562&#10;1220895676 156988&#10;1231985678 158414&#10;1265395670 162710&#10;1276485672 164136&#10;1287575674 165562&#10;1298665676 166988" />
     <MESSAGE value="29 9" />
     <MESSAGE value="A) 1217&#10;B) хз((" />
-    <option name="LAST_COMMIT_MESSAGE" value="A) 1217&#10;B) хз((" />
+    <MESSAGE value="243698" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
