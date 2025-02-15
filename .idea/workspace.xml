@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="29 9">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="A) 1217&#10;B) хз((">
+      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,14 +286,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00227" summary="92 838850571">
-      <option name="closed" value="true" />
-      <created>1739348480322</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1739348480322</updated>
     </task>
     <task id="LOCAL-00228" summary="1214 176024">
       <option name="closed" value="true" />
@@ -679,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739630005586</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="A) 1217&#10;B) хз((">
+      <option name="closed" value="true" />
+      <created>1739632019410</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1739632019410</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14" />
     <MESSAGE value="1000 9996" />
     <MESSAGE value="2071 755" />
     <MESSAGE value="837" />
@@ -708,7 +707,8 @@
     <MESSAGE value="54" />
     <MESSAGE value="121025674 15562&#10;1209805674 155562&#10;1220895676 156988&#10;1231985678 158414&#10;1265395670 162710&#10;1276485672 164136&#10;1287575674 165562&#10;1298665676 166988" />
     <MESSAGE value="29 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="29 9" />
+    <MESSAGE value="A) 1217&#10;B) хз((" />
+    <option name="LAST_COMMIT_MESSAGE" value="A) 1217&#10;B) хз((" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
