@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/tasks 19, 20, 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/tasks 19, 20, 21.py" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="315671 630&#10;315677 4410&#10;3135677 13230&#10;3145673 7560&#10;3145679 22680&#10;3165671 3780&#10;3195679 51030">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 24/task 24.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 24/task 24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ULTRAprobnik/task 6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.3/python_stubs/56370345/itertools.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2qfPXRTzOrHxws6MysmcBaP5yTY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -53,6 +55,7 @@
   "keyToString": {
     "Python.26_4938.executor": "Run",
     "Python.taask 6 19238.executor": "Run",
+    "Python.tas 25 - 17880.executor": "Run",
     "Python.tasak 26 - 14626.executor": "Run",
     "Python.task  1 - 17664.executor": "Run",
     "Python.task - 14 - 4326.executor": "Run",
@@ -129,6 +132,7 @@
     "Python.task 17 - 17873.executor": "Run",
     "Python.task 17 - 18185.executor": "Run",
     "Python.task 17 - 19249.executor": "Run",
+    "Python.task 17 - 19486.executor": "Run",
     "Python.task 17 - 2003.executor": "Run",
     "Python.task 17 - 2017.executor": "Run",
     "Python.task 17 - 2239.executor": "Run",
@@ -180,21 +184,30 @@
     "Python.task 24 - 4113.executor": "Run",
     "Python.task 24 - 7193.executor": "Run",
     "Python.task 24.executor": "Run",
+    "Python.task 25 - 12255.executor": "Run",
     "Python.task 25 - 1231.executor": "Run",
+    "Python.task 25 - 14440.executor": "Run",
     "Python.task 25 - 1867.executor": "Run",
     "Python.task 25 - 19255.executor": "Run",
     "Python.task 25 - 22.executor": "Run",
     "Python.task 25 - 2361.executor": "Run",
     "Python.task 25 - 2592.executor": "Run",
     "Python.task 25 - 2595.executor": "Run",
+    "Python.task 25 - 3229.executor": "Run",
+    "Python.task 25 - 4603.executor": "Run",
+    "Python.task 25 - 4628.executor": "Run",
     "Python.task 25 - 635.executor": "Run",
     "Python.task 25 - 953.executor": "Run",
+    "Python.task 25 - 9754.executor": "Run",
+    "Python.task 25 - 9792.executor": "Run",
+    "Python.task 25 - 9845.executor": "Run",
     "Python.task 25.executor": "Run",
     "Python.task 26 - 10107.executor": "Run",
     "Python.task 26 - 14625.executor": "Run",
     "Python.task 26 - 16390.executor": "Run",
     "Python.task 26 - 17565.executor": "Debug",
     "Python.task 26 - 17786.executor": "Run",
+    "Python.task 26 - 18967.executor": "Run",
     "Python.task 26 - 19256.executor": "Run",
     "Python.task 26 - 19726.executor": "Run",
     "Python.task 26 - 19727.executor": "Run",
@@ -217,6 +230,7 @@
     "Python.task 5.executor": "Run",
     "Python.task 6 - 14173.executor": "Run",
     "Python.task 6 - 17519.executor": "Run",
+    "Python.task 6 - 6013.executor": "Run",
     "Python.task 6.executor": "Run",
     "Python.task 8 - 11292.executor": "Run",
     "Python.task 8 - 13298.executor": "Run",
@@ -231,6 +245,7 @@
     "Python.task 8 - 5553.executor": "Run",
     "Python.task 8 - 6985.executor": "Run",
     "Python.task 8 - 9363.executor": "Run",
+    "Python.task 8 - 9994.executor": "Run",
     "Python.task 8.executor": "Run",
     "Python.tasks 19, 20, 21 - 18199.executor": "Run",
     "Python.tasks 19, 20, 21 - 18268.executor": "Run",
@@ -249,7 +264,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/DZshkas/ULTRAprobnik/task 27",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/18-2-25/task 17 - 19486",
     "settings.editor.selected.configurable": "copyright",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -257,18 +272,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\18-2-25\task 17 - 19486" />
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 26\task 26 - 19967" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\ULTRAprobnik\task 27" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\ULTRAprobnik\task 26" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\ULTRAprobnik\task 24" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\ULTRAprobnik\task 17" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\14-2-25\task 17 - 7716" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\18-2-25\task 17 - 19486" />
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 26\task 26 - 19967" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\11-02-25\task 17 - 4597" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 24\task 24 - 19968" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\OMEGAprobnik\task 24" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -286,110 +301,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00230" summary="56">
-      <option name="closed" value="true" />
-      <created>1739353998053</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1739353998053</updated>
-    </task>
-    <task id="LOCAL-00231" summary="20">
-      <option name="closed" value="true" />
-      <created>1739354868952</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1739354868952</updated>
-    </task>
-    <task id="LOCAL-00232" summary="7440">
-      <option name="closed" value="true" />
-      <created>1739355243764</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1739355243764</updated>
-    </task>
-    <task id="LOCAL-00233" summary="3240">
-      <option name="closed" value="true" />
-      <created>1739356000292</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1739356000292</updated>
-    </task>
-    <task id="LOCAL-00234" summary="222">
-      <option name="closed" value="true" />
-      <created>1739356502142</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1739356502142</updated>
-    </task>
-    <task id="LOCAL-00235" summary="6860">
-      <option name="closed" value="true" />
-      <created>1739356664470</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1739356664470</updated>
-    </task>
-    <task id="LOCAL-00236" summary="52">
-      <option name="closed" value="true" />
-      <created>1739356797164</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1739356797164</updated>
-    </task>
-    <task id="LOCAL-00237" summary="19) 25&#10;20) 40 43&#10;21) 60">
-      <option name="closed" value="true" />
-      <created>1739527755523</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1739527755524</updated>
-    </task>
-    <task id="LOCAL-00238" summary="19) 9&#10;20) 8 14&#10;21) 10 13">
-      <option name="closed" value="true" />
-      <created>1739528654000</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1739528654000</updated>
-    </task>
-    <task id="LOCAL-00239" summary="42">
-      <option name="closed" value="true" />
-      <created>1739542017683</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1739542017683</updated>
-    </task>
-    <task id="LOCAL-00240" summary="w z y x">
-      <option name="closed" value="true" />
-      <created>1739542312609</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1739542312609</updated>
-    </task>
-    <task id="LOCAL-00241" summary="111">
-      <option name="closed" value="true" />
-      <created>1739543151453</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1739543151453</updated>
-    </task>
-    <task id="LOCAL-00242" summary="166">
-      <option name="closed" value="true" />
-      <created>1739543253969</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1739543253969</updated>
     </task>
     <task id="LOCAL-00243" summary="44">
       <option name="closed" value="true" />
@@ -679,23 +590,114 @@
       <option name="project" value="LOCAL" />
       <updated>1739632782763</updated>
     </task>
-    <option name="localTasksCounter" value="279" />
+    <task id="LOCAL-00279" summary="19) 28&#10;20) 25 52&#10;21) 33">
+      <option name="closed" value="true" />
+      <created>1739633306919</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1739633306919</updated>
+    </task>
+    <task id="LOCAL-00280" summary="42">
+      <option name="closed" value="true" />
+      <created>1739888152205</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1739888152205</updated>
+    </task>
+    <task id="LOCAL-00281" summary="2555">
+      <option name="closed" value="true" />
+      <created>1739888419449</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1739888419449</updated>
+    </task>
+    <task id="LOCAL-00282" summary="48">
+      <option name="closed" value="true" />
+      <created>1739889154175</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1739889154175</updated>
+    </task>
+    <task id="LOCAL-00283" summary="1234737 8757&#10;12341307 87527&#10;12342717 87537&#10;12344127 87547&#10;12345537 87557&#10;12346947 87567&#10;12348357 87577&#10;12349767 87587">
+      <option name="closed" value="true" />
+      <created>1739890261411</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1739890261412</updated>
+    </task>
+    <task id="LOCAL-00284" summary="1234065 7665&#10;12004965 74565&#10;12214265 75865&#10;12294765 76365&#10;12504065 77665&#10;12584565 78165&#10;12874365 79965&#10;12954865 80465">
+      <option name="closed" value="true" />
+      <created>1739890583915</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1739890583915</updated>
+    </task>
+    <task id="LOCAL-00285" summary="351261495 183235&#10;3212614035 1675855&#10;3412614645 1780185&#10;3712414275 1936575&#10;3912414885 2040905">
+      <option name="closed" value="true" />
+      <created>1739891422992</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1739891422992</updated>
+    </task>
+    <task id="LOCAL-00286" summary="321657 159&#10;34105757 16859&#10;35117257 17359&#10;36128757 17859&#10;37140257 18359&#10;38151757 18859&#10;39163257 19359">
+      <option name="closed" value="true" />
+      <created>1739891697853</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1739891697853</updated>
+    </task>
+    <task id="LOCAL-00287" summary="10022676 5212&#10;12522576 6512&#10;15022476 7812&#10;17522376 9112&#10;19829976 10312">
+      <option name="closed" value="true" />
+      <created>1739891831999</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1739891831999</updated>
+    </task>
+    <task id="LOCAL-00288" summary="1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377">
+      <option name="closed" value="true" />
+      <created>1739892019645</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1739892019645</updated>
+    </task>
+    <task id="LOCAL-00289" summary="545163597 29343&#10;5411932647 291293&#10;5421036357 291783&#10;5451134337 293403&#10;5461538577 293963&#10;5481232317 295023&#10;5491636557 295583">
+      <option name="closed" value="true" />
+      <created>1739892134574</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1739892134574</updated>
+    </task>
+    <task id="LOCAL-00290" summary="120313456439 1220329&#10;120383456049 1221039&#10;125351456539 1271429">
+      <option name="closed" value="true" />
+      <created>1739892369267</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1739892369267</updated>
+    </task>
+    <task id="LOCAL-00291" summary="315671 630&#10;315677 4410&#10;3135677 13230&#10;3145673 7560&#10;3145679 22680&#10;3165671 3780&#10;3195679 51030">
+      <option name="closed" value="true" />
+      <created>1739893787253</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1739893787253</updated>
+    </task>
+    <option name="localTasksCounter" value="292" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1000 9996" />
-    <MESSAGE value="2071 755" />
-    <MESSAGE value="837" />
-    <MESSAGE value="56 18612" />
-    <MESSAGE value="44" />
-    <MESSAGE value="w x y z" />
-    <MESSAGE value="7520" />
-    <MESSAGE value="31" />
-    <MESSAGE value="56" />
-    <MESSAGE value="15293" />
-    <MESSAGE value="5" />
-    <MESSAGE value="386" />
-    <MESSAGE value="9" />
     <MESSAGE value="4194304" />
     <MESSAGE value="53 64179" />
     <MESSAGE value="2400 881" />
@@ -708,7 +710,20 @@
     <MESSAGE value="A) 1217&#10;B) хз((" />
     <MESSAGE value="243698" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="19) 28&#10;20) 25 52&#10;21) 33" />
+    <MESSAGE value="42" />
+    <MESSAGE value="2555" />
+    <MESSAGE value="48" />
+    <MESSAGE value="1234737 8757&#10;12341307 87527&#10;12342717 87537&#10;12344127 87547&#10;12345537 87557&#10;12346947 87567&#10;12348357 87577&#10;12349767 87587" />
+    <MESSAGE value="1234065 7665&#10;12004965 74565&#10;12214265 75865&#10;12294765 76365&#10;12504065 77665&#10;12584565 78165&#10;12874365 79965&#10;12954865 80465" />
+    <MESSAGE value="351261495 183235&#10;3212614035 1675855&#10;3412614645 1780185&#10;3712414275 1936575&#10;3912414885 2040905" />
+    <MESSAGE value="321657 159&#10;34105757 16859&#10;35117257 17359&#10;36128757 17859&#10;37140257 18359&#10;38151757 18859&#10;39163257 19359" />
+    <MESSAGE value="10022676 5212&#10;12522576 6512&#10;15022476 7812&#10;17522376 9112&#10;19829976 10312" />
+    <MESSAGE value="1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377" />
+    <MESSAGE value="545163597 29343&#10;5411932647 291293&#10;5421036357 291783&#10;5451134337 293403&#10;5461538577 293963&#10;5481232317 295023&#10;5491636557 295583" />
+    <MESSAGE value="120313456439 1220329&#10;120383456049 1221039&#10;125351456539 1271429" />
+    <MESSAGE value="315671 630&#10;315677 4410&#10;3135677 13230&#10;3145673 7560&#10;3145679 22680&#10;3165671 3780&#10;3195679 51030" />
+    <option name="LAST_COMMIT_MESSAGE" value="315671 630&#10;315677 4410&#10;3135677 13230&#10;3145673 7560&#10;3145679 22680&#10;3165671 3780&#10;3195679 51030" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
