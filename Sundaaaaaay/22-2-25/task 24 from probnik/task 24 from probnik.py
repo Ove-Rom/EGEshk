@@ -5,12 +5,12 @@ data = data.replace("**", " ")
 data = data.replace("*+", " ")
 data = data.replace("+*", " ")
 
-# for i in range(10):   # штука для удаления ведущих нулей
-#     print(i)
-#     while f"*0{i}" in data or f"+0{i}" in data or f" 0{i}" in data:
-#         data = data.replace(f"*0{i}", f"*0 {i}")
-#         data = data.replace(f"+0{i}", f"+0 {i}")
-#         data = data.replace(f" 0{i}", f" 0 {i}")
+# for num in range(10):   # штука для удаления ведущих нулей
+#     print(num)
+#     while f"*0{num}" in data or f"+0{num}" in data or f" 0{num}" in data:
+#         data = data.replace(f"*0{num}", f"*0 {num}")
+#         data = data.replace(f"+0{num}", f"+0 {num}")
+#         data = data.replace(f" 0{num}", f" 0 {num}")
 
 data = data.split()
 
