@@ -11,8 +11,6 @@ for v in "2468":
                 if num % 53191 == 0:
                     ans.append((num, num // 53191))
 
-for j in sorted(ans)[::-1]:
+for j in sorted(ans)[::-1][:5][::-1]:
     print(*j)
-    c += 1
-    if c == 5: exit(80085)
 

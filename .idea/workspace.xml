@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="608812143 65953&#10;2086012149 225979&#10;4440212541 481011&#10;6286412541 681011&#10;8486012145 919295">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="8136999607 152977&#10;8136893225 152975&#10;8136786843 152973&#10;8136680461 152971&#10;8136574079 152969">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -318,14 +318,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00269" summary="85">
-      <option name="closed" value="true" />
-      <created>1739611201572</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1739611201573</updated>
     </task>
     <task id="LOCAL-00270" summary="690">
       <option name="closed" value="true" />
@@ -711,11 +703,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740423476616</updated>
     </task>
-    <option name="localTasksCounter" value="318" />
+    <task id="LOCAL-00318" summary="8136999607 152977&#10;8136893225 152975&#10;8136786843 152973&#10;8136680461 152971&#10;8136574079 152969">
+      <option name="closed" value="true" />
+      <created>1740426546156</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1740426546156</updated>
+    </task>
+    <option name="localTasksCounter" value="319" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="315671 630&#10;315677 4410&#10;3135677 13230&#10;3145673 7560&#10;3145679 22680&#10;3165671 3780&#10;3195679 51030" />
     <MESSAGE value="123450668 7261804&#10;123451688 7261864&#10;123456618 7262154&#10;123457638 7262214&#10;123458658 7262274&#10;123459678 7262334" />
     <MESSAGE value="1234737 8757&#10;12341307 87527&#10;12342717 87537&#10;12344127 87547&#10;12345537 87557&#10;12346947 87567&#10;12348357 87577&#10;12349767 87587" />
     <MESSAGE value="12325677 72933&#10;12385672 73288&#10;123165679 728791&#10;123225674 729146&#10;123515678 730862&#10;123575673 731217&#10;123865677 732933&#10;123925672 733288" />
@@ -740,7 +739,8 @@
     <MESSAGE value="121 + штука для удаления ведущих нулей" />
     <MESSAGE value="120313456439 1220329&#10;120383456049 1221039&#10;125351456539 1271429" />
     <MESSAGE value="608812143 65953&#10;2086012149 225979&#10;4440212541 481011&#10;6286412541 681011&#10;8486012145 919295" />
-    <option name="LAST_COMMIT_MESSAGE" value="608812143 65953&#10;2086012149 225979&#10;4440212541 481011&#10;6286412541 681011&#10;8486012145 919295" />
+    <MESSAGE value="8136999607 152977&#10;8136893225 152975&#10;8136786843 152973&#10;8136680461 152971&#10;8136574079 152969" />
+    <option name="LAST_COMMIT_MESSAGE" value="8136999607 152977&#10;8136893225 152975&#10;8136786843 152973&#10;8136680461 152971&#10;8136574079 152969" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
