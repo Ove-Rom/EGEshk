@@ -6,5 +6,5 @@ for n in range(1, 10**10):
         r = '1' + r + '1'
     r = int(r, 2)
     if r > 156:
-        print(r)
+        print(n)
         break
