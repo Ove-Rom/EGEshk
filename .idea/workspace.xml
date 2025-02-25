@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="123405788 7259164&#10;123435708 7260924&#10;123445738 7261514&#10;123455768 7262104&#10;123465798 7262694&#10;123495718 7264454" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="12340001&#10;123400010&#10;123437000&#10;1234000100&#10;1234370000" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,22 +321,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00277" summary="243698">
-      <option name="closed" value="true" />
-      <created>1739632339250</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1739632339250</updated>
-    </task>
-    <task id="LOCAL-00278" summary="1">
-      <option name="closed" value="true" />
-      <created>1739632782763</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
-      <option name="project" value="LOCAL" />
-      <updated>1739632782763</updated>
     </task>
     <task id="LOCAL-00279" summary="19) 28&#10;20) 25 52&#10;21) 33">
       <option name="closed" value="true" />
@@ -714,12 +698,26 @@
       <option name="project" value="LOCAL" />
       <updated>1740493958155</updated>
     </task>
-    <option name="localTasksCounter" value="326" />
+    <task id="LOCAL-00326" summary="33">
+      <option name="closed" value="true" />
+      <created>1740494219332</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494219332</updated>
+    </task>
+    <task id="LOCAL-00327" summary="12340001&#10;123400010&#10;123437000&#10;1234000100&#10;1234370000">
+      <option name="closed" value="true" />
+      <created>1740494409137</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494409137</updated>
+    </task>
+    <option name="localTasksCounter" value="328" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="y z x w" />
-    <MESSAGE value="85781634 32273&#10;850461654 319963&#10;851471694 320343&#10;852521604 320738&#10;853531644 321118&#10;854541684 321498&#10;856601634 322273&#10;857611674 322653&#10;859671624 323428" />
     <MESSAGE value="1214803475 57779&#10;1233263425 58657&#10;1240033475 58979&#10;1241673425 59057&#10;1258493425 59857&#10;1265263475 60179&#10;1283723425 61057" />
     <MESSAGE value="85316484 32098&#10;850169274 319853&#10;851166024 320228&#10;852162774 320603&#10;854169564 321358&#10;855166314 321733&#10;856163064 322108&#10;858169854 322863&#10;859166604 323238" />
     <MESSAGE value="123119445 69285&#10;123350455 69415&#10;123581465 69545&#10;123812475 69675&#10;123972405 69765" />
@@ -743,7 +741,9 @@
     <MESSAGE value="23" />
     <MESSAGE value="195" />
     <MESSAGE value="123405788 7259164&#10;123435708 7260924&#10;123445738 7261514&#10;123455768 7262104&#10;123465798 7262694&#10;123495718 7264454" />
-    <option name="LAST_COMMIT_MESSAGE" value="123405788 7259164&#10;123435708 7260924&#10;123445738 7261514&#10;123455768 7262104&#10;123465798 7262694&#10;123495718 7264454" />
+    <MESSAGE value="33" />
+    <MESSAGE value="12340001&#10;123400010&#10;123437000&#10;1234000100&#10;1234370000" />
+    <option name="LAST_COMMIT_MESSAGE" value="12340001&#10;123400010&#10;123437000&#10;1234000100&#10;1234370000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
