@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="700000 175004&#10;700003 700004&#10;700004 350004&#10;700005 10214&#10;700008 116674" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,6 +201,7 @@
     "Python.task 25 - 17536.executor": "Run",
     "Python.task 25 - 17564.executor": "Run",
     "Python.task 25 - 17642.executor": "Run",
+    "Python.task 25 - 17686.executor": "Run",
     "Python.task 25 - 18591.executor": "Run",
     "Python.task 25 - 1867.executor": "Run",
     "Python.task 25 - 19255.executor": "Run",
@@ -324,14 +327,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00284" summary="1234065 7665&#10;12004965 74565&#10;12214265 75865&#10;12294765 76365&#10;12504065 77665&#10;12584565 78165&#10;12874365 79965&#10;12954865 80465">
-      <option name="closed" value="true" />
-      <created>1739890583915</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
-      <option name="project" value="LOCAL" />
-      <updated>1739890583915</updated>
     </task>
     <task id="LOCAL-00285" summary="351261495 183235&#10;3212614035 1675855&#10;3412614645 1780185&#10;3712414275 1936575&#10;3912414885 2040905">
       <option name="closed" value="true" />
@@ -717,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740496069391</updated>
     </task>
-    <option name="localTasksCounter" value="333" />
+    <task id="LOCAL-00333" summary="800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39">
+      <option name="closed" value="true" />
+      <created>1740496620771</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
+      <option name="project" value="LOCAL" />
+      <updated>1740496620772</updated>
+    </task>
+    <option name="localTasksCounter" value="334" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058" />
     <MESSAGE value="1932372352 973978&#10;1962382336 989104&#10;1972302336 994104&#10;3952332352 1992103&#10;3982342336 2007229&#10;5962372352 3005228&#10;5992382336 3020354&#10;7982332352 4023353&#10;9992372352 5036478" />
     <MESSAGE value="1203458670898 5842032383&#10;1223459670896 5939124616&#10;1233450670896 5987624616&#10;1253451670894 6084716849&#10;1273452670892 6181809082&#10;1293453670890 6278901315" />
     <MESSAGE value="1249579 37&#10;12409579 37&#10;12452979 39&#10;12456179 35" />
@@ -746,7 +748,8 @@
     <MESSAGE value="500002 178&#10;500004 18&#10;500016 48&#10;500018 58&#10;500020 4348" />
     <MESSAGE value="800000 200004&#10;800003 800004&#10;800004 400004&#10;800009 114294&#10;800013 266674" />
     <MESSAGE value="700000 175004&#10;700003 700004&#10;700004 350004&#10;700005 10214&#10;700008 116674" />
-    <option name="LAST_COMMIT_MESSAGE" value="700000 175004&#10;700003 700004&#10;700004 350004&#10;700005 10214&#10;700008 116674" />
+    <MESSAGE value="800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
