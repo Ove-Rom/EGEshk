@@ -9,7 +9,7 @@ def div(x):
 
 
 def simp(x):
-    for i in range(2, round(x ** .5)):
+    for i in range(2, round(x ** .5) + 1):
         if x % i == 0:
             return 0
     return 1
