@@ -13,4 +13,4 @@ for i in range(400_000_001, 10**10):
     if d:
         print(*d)
         c += 1
-        if c == 7: break
+        if c == 5: break
