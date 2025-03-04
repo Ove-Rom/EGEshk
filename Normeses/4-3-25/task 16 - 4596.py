@@ -8,7 +8,7 @@ def f(n):
     elif n > 2 and n % 2 == 0:
         return f(n - 1) + n - 1
     elif n > 2 and n % 2:
-        return f(n - 2) + 2 * n
+        return f(n - 2) + 2 * n - 2
 
 for i in range(35): f(i)
 
