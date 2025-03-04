@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1035339954 160842&#10;1537425954 238842&#10;1730535954 268842&#10;1833527954 284842&#10;1936519954 300842" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="721">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -353,22 +355,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00315" summary="121 + штука для удаления ведущих нулей">
-      <option name="closed" value="true" />
-      <created>1740420211634</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
-      <option name="project" value="LOCAL" />
-      <updated>1740420211634</updated>
-    </task>
-    <task id="LOCAL-00316" summary="120313456439 1220329&#10;120383456049 1221039&#10;125351456539 1271429">
-      <option name="closed" value="true" />
-      <created>1740421141093</created>
-      <option name="number" value="00316" />
-      <option name="presentableId" value="LOCAL-00316" />
-      <option name="project" value="LOCAL" />
-      <updated>1740421141093</updated>
     </task>
     <task id="LOCAL-00317" summary="608812143 65953&#10;2086012149 225979&#10;4440212541 481011&#10;6286412541 681011&#10;8486012145 919295">
       <option name="closed" value="true" />
@@ -746,12 +732,26 @@
       <option name="project" value="LOCAL" />
       <updated>1741098038088</updated>
     </task>
-    <option name="localTasksCounter" value="364" />
+    <task id="LOCAL-00364" summary="804609 27&#10;815409 27&#10;826281 15&#10;837225 27&#10;855625 15&#10;859329 15">
+      <option name="closed" value="true" />
+      <created>1741098460722</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
+      <option name="project" value="LOCAL" />
+      <updated>1741098460722</updated>
+    </task>
+    <task id="LOCAL-00365" summary="721">
+      <option name="closed" value="true" />
+      <created>1741098974216</created>
+      <option name="number" value="00365" />
+      <option name="presentableId" value="LOCAL-00365" />
+      <option name="project" value="LOCAL" />
+      <updated>1741098974216</updated>
+    </task>
+    <option name="localTasksCounter" value="366" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7 77457" />
-    <MESSAGE value="4749516686 3848879&#10;4747665686 3847379&#10;4745814686 3845879&#10;4745197686 3845379&#10;4744580686 3844879&#10;4741495686 3842379" />
     <MESSAGE value="700002 27&#10;700003 37&#10;700005 6087&#10;700007 77&#10;700008 29167" />
     <MESSAGE value="1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598" />
     <MESSAGE value="600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403" />
@@ -775,7 +775,9 @@
     <MESSAGE value="318836" />
     <MESSAGE value="19" />
     <MESSAGE value="1035339954 160842&#10;1537425954 238842&#10;1730535954 268842&#10;1833527954 284842&#10;1936519954 300842" />
-    <option name="LAST_COMMIT_MESSAGE" value="1035339954 160842&#10;1537425954 238842&#10;1730535954 268842&#10;1833527954 284842&#10;1936519954 300842" />
+    <MESSAGE value="804609 27&#10;815409 27&#10;826281 15&#10;837225 27&#10;855625 15&#10;859329 15" />
+    <MESSAGE value="721" />
+    <option name="LAST_COMMIT_MESSAGE" value="721" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
