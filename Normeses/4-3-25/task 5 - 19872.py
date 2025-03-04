@@ -3,7 +3,7 @@ def toq(a, q):
     while a:
         ans += str(a % q)
         a //= q
-    return ans
+    return ans[::-1]
 
 for n in range(1000, 0, -1):
     r = toq(n, 7)
