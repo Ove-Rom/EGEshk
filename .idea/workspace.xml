@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="20" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +82,9 @@
     "Python.task 13 - 10569.executor": "Run",
     "Python.task 13 - 10570.executor": "Run",
     "Python.task 13 - 10571.executor": "Run",
+    "Python.task 13 - 10574.executor": "Run",
     "Python.task 13 - 10575.executor": "Run",
+    "Python.task 13 - 10578.executor": "Run",
     "Python.task 13.executor": "Run",
     "Python.task 14 - 12246.executor": "Run",
     "Python.task 14 - 14324.executor": "Run",
@@ -370,14 +372,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00337" summary="7 77457">
-      <option name="closed" value="true" />
-      <created>1740752565370</created>
-      <option name="number" value="00337" />
-      <option name="presentableId" value="LOCAL-00337" />
-      <option name="project" value="LOCAL" />
-      <updated>1740752565371</updated>
     </task>
     <task id="LOCAL-00338" summary="4749516686 3848879&#10;4747665686 3847379&#10;4745814686 3845879&#10;4745197686 3845379&#10;4744580686 3844879&#10;4741495686 3842379">
       <option name="closed" value="true" />
@@ -763,11 +757,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741698327897</updated>
     </task>
-    <option name="localTasksCounter" value="386" />
+    <task id="LOCAL-00386" summary="7">
+      <option name="closed" value="true" />
+      <created>1741698462249</created>
+      <option name="number" value="00386" />
+      <option name="presentableId" value="LOCAL-00386" />
+      <option name="project" value="LOCAL" />
+      <updated>1741698462249</updated>
+    </task>
+    <option name="localTasksCounter" value="387" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="398 273" />
     <MESSAGE value="47" />
     <MESSAGE value="318836" />
     <MESSAGE value="19" />
@@ -792,7 +793,8 @@
     <MESSAGE value="248" />
     <MESSAGE value="224" />
     <MESSAGE value="20" />
-    <option name="LAST_COMMIT_MESSAGE" value="20" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
