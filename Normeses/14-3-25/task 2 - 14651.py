@@ -2,7 +2,7 @@ from itertools import product, permutations
 
 
 def f(x, y, z, w):
-    return (z <= x) == (w <= y) or (x and w)
+    return (z <= x) == ((w <= y) or (x and w))
 
 
 for q, w, e, r, t, y in product([0, 1], repeat=6):
