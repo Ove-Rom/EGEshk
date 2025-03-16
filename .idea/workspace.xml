@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1952 2364">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="9988 2408">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -315,6 +315,7 @@
     "Python.task 26 - 19726.executor": "Run",
     "Python.task 26 - 19727.executor": "Run",
     "Python.task 26 - 20196.executor": "Run",
+    "Python.task 26 - 2653.executor": "Run",
     "Python.task 26 - 4369.executor": "Run",
     "Python.task 26 - 4604.executor": "Run",
     "Python.task 26 - 4621.executor": "Run",
@@ -384,7 +385,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/15-3-25/task 26 - 4687",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/15-3-25/task 26 - 2653",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -392,11 +393,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\15-3-25\task 26 - 2653" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\15-3-25\task 26 - 4687" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\15-3-25\task 26 Krylov-1\task 26 - 4369" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\from 14-3-25\task 17 - 4329" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\14-3-25\task 17 - 14952" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Draganov moment\tasks 27\task 27 from probnik" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\15-3-25" />
@@ -421,14 +422,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00393" summary="650">
-      <option name="closed" value="true" />
-      <created>1741703607309</created>
-      <option name="number" value="00393" />
-      <option name="presentableId" value="LOCAL-00393" />
-      <option name="project" value="LOCAL" />
-      <updated>1741703607309</updated>
     </task>
     <task id="LOCAL-00394" summary="376">
       <option name="closed" value="true" />
@@ -814,11 +807,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742057377589</updated>
     </task>
-    <option name="localTasksCounter" value="442" />
+    <task id="LOCAL-00442" summary="9988 2408">
+      <option name="closed" value="true" />
+      <created>1742059805936</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1742059805936</updated>
+    </task>
+    <option name="localTasksCounter" value="443" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="32768" />
     <MESSAGE value="37" />
     <MESSAGE value="793" />
     <MESSAGE value="56" />
@@ -843,7 +843,8 @@
     <MESSAGE value="643 16" />
     <MESSAGE value="24716 2172" />
     <MESSAGE value="1952 2364" />
-    <option name="LAST_COMMIT_MESSAGE" value="1952 2364" />
+    <MESSAGE value="9988 2408" />
+    <option name="LAST_COMMIT_MESSAGE" value="9988 2408" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
