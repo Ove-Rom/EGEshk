@@ -5,9 +5,9 @@ def toq(a, q):
         a //= q
     return ans[::-1]
 
-for n in range(10**5):
+for n in range(1, 10**5):
     r = toq(n, 3)
-    if sum(int(i) for i in r) % 3 == 0:
+    if sum(int(i) for i in r) % 2 == 0:
         r += '0'
         r = '12' + r[2:]
     else:
