@@ -8,4 +8,4 @@ def toq(a, q):
 
 n = 15625 ** 16 - 3125 ** 3 * 25 ** 19 + 625 ** 4 - 2005
 
-print(toq(n, 3).count('0'))
+print(toq(n, 5).count('0'))
