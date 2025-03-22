@@ -3,7 +3,7 @@ with open("26_17643.txt") as f:
     n = int(f.readline())
     data = [list(map(int, i.split())) for i in f]
 
-midPrice = sum(j for i, j, k in data) / len(data)
+midPrice = sum(i[1] for i in data) / len(data)
 
 base = dict()
 
