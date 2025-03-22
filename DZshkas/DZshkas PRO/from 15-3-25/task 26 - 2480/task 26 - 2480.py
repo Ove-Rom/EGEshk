@@ -1,3 +1,5 @@
+roadToRepair = set()
+
 with open("26_2480.txt") as f:
     # with open("test") as f:
     n = int(f.readline())
