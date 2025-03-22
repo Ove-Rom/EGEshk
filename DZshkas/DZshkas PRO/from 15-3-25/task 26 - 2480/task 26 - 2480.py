@@ -6,9 +6,7 @@ with open("26_2480.txt") as f:
     for i in f:
         roadToRepair.update(set(range(int(i.split()[0]), int(i.split()[1]) + 1)))
 
-road = set(range(list(roadToRepair)[-1] + 2))
-
-goodRoad = list(road - roadToRepair)
+goodRoad = list(set(range(list(roadToRepair)[-1] + 2)) - roadToRepair)
 ans = []
 
 for i in range(len(goodRoad) - 1):
