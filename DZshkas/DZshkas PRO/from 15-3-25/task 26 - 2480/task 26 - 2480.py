@@ -1,12 +1,8 @@
 with open("26_2480.txt") as f:
     # with open("test") as f:
     n = int(f.readline())
-    data = [set(range(list(map(int, i.split()))[0], list(map(int, i.split()))[1] + 1)) for i in f]
-
-roadToRepair = set()
-
-for i in data:
-    roadToRepair.update(i)
+    for i in f:
+        roadToRepair.update(set(range(int(i.split()[0]), int(i.split()[1]) + 1)))
 
 road = set(range(list(roadToRepair)[-1] + 2))
 
