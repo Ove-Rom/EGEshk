@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="19) 21&#10;20) 7 18 &#10;21) 2">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,6 +261,7 @@
     "Python.task 24 - 2427.executor": "Run",
     "Python.task 24 - 4113.executor": "Run",
     "Python.task 24 - 4682.executor": "Run",
+    "Python.task 24 - 5237.executor": "Run",
     "Python.task 24 - 7193.executor": "Run",
     "Python.task 24 from probnik.executor": "Run",
     "Python.task 24.executor": "Run",
@@ -411,7 +412,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/DZshkas/DZshkas PRO/from 22-3-25/task 24 - 10724",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/DZshkas/DZshkas PRO/from 22-3-25/task 24 - 5237",
     "settings.editor.selected.configurable": "preferences.keymap",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -419,11 +420,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\DZshkas PRO\from 22-3-25\task 24 - 5237" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\DZshkas PRO\from 22-3-25\task 24 - 10724" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\25-3-25\task 17 - 7718" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\22-3-25\task 26 - 17634" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\22-3-25\task 26 - 2717" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\21-3-25\task 17 - 17636" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\21-3-25\task 17 - 17636" />
@@ -448,14 +449,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00437" summary="643 16">
-      <option name="closed" value="true" />
-      <created>1742033022266</created>
-      <option name="number" value="00437" />
-      <option name="presentableId" value="LOCAL-00437" />
-      <option name="project" value="LOCAL" />
-      <updated>1742033022266</updated>
     </task>
     <task id="LOCAL-00438" summary="1952 2364">
       <option name="closed" value="true" />
@@ -841,11 +834,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743078096289</updated>
     </task>
-    <option name="localTasksCounter" value="486" />
+    <task id="LOCAL-00486" summary="21">
+      <option name="closed" value="true" />
+      <created>1743078725582</created>
+      <option name="number" value="00486" />
+      <option name="presentableId" value="LOCAL-00486" />
+      <option name="project" value="LOCAL" />
+      <updated>1743078725582</updated>
+    </task>
+    <option name="localTasksCounter" value="487" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6405" />
     <MESSAGE value="5211 20116" />
     <MESSAGE value="29" />
     <MESSAGE value="46" />
@@ -870,7 +870,8 @@
     <MESSAGE value="0" />
     <MESSAGE value="19) 33&#10;20) 30 32&#10;21) 29" />
     <MESSAGE value="19) 21&#10;20) 7 18 &#10;21) 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="19) 21&#10;20) 7 18 &#10;21) 2" />
+    <MESSAGE value="21" />
+    <option name="LAST_COMMIT_MESSAGE" value="21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
