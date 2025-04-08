@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="14316872222">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="10007 7953">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -274,6 +274,7 @@
     "Python.task 24 - 4682.executor": "Run",
     "Python.task 24 - 5237.executor": "Run",
     "Python.task 24 - 7193.executor": "Run",
+    "Python.task 24 - from dosrok.executor": "Run",
     "Python.task 24 from probnik.executor": "Run",
     "Python.task 24.executor": "Run",
     "Python.task 25 - 10725.executor": "Run",
@@ -450,7 +451,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/8-4-25/task 17 - from dosrok",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/8-4-25/task 24 - from dosrok",
     "settings.editor.selected.configurable": "preferences.keymap",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -458,11 +459,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 24 - from dosrok" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 17 - from dosrok" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 5245" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 1379" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 14679" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 3902" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 9 - from dosrok" />
@@ -487,22 +488,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00480" summary="32500280 2755&#10;32500301 58290&#10;32500440 1450&#10;32500623 17545&#10;32500665 722245&#10;32500700 7975&#10;32500834 4785">
-      <option name="closed" value="true" />
-      <created>1743073981907</created>
-      <option name="number" value="00480" />
-      <option name="presentableId" value="LOCAL-00480" />
-      <option name="project" value="LOCAL" />
-      <updated>1743073981909</updated>
-    </task>
-    <task id="LOCAL-00481" summary="120313456439 1220329&#10;120383456049 1221039&#10;125351456539 1271429">
-      <option name="closed" value="true" />
-      <created>1743074471329</created>
-      <option name="number" value="00481" />
-      <option name="presentableId" value="LOCAL-00481" />
-      <option name="project" value="LOCAL" />
-      <updated>1743074471329</updated>
     </task>
     <task id="LOCAL-00482" summary="3126">
       <option name="closed" value="true" />
@@ -880,11 +865,26 @@
       <option name="project" value="LOCAL" />
       <updated>1744124523682</updated>
     </task>
-    <option name="localTasksCounter" value="529" />
+    <task id="LOCAL-00529" summary="10007 7953">
+      <option name="closed" value="true" />
+      <created>1744125388213</created>
+      <option name="number" value="00529" />
+      <option name="presentableId" value="LOCAL-00529" />
+      <option name="project" value="LOCAL" />
+      <updated>1744125388213</updated>
+    </task>
+    <task id="LOCAL-00530" summary="10007 7953">
+      <option name="closed" value="true" />
+      <created>1744125614479</created>
+      <option name="number" value="00530" />
+      <option name="presentableId" value="LOCAL-00530" />
+      <option name="project" value="LOCAL" />
+      <updated>1744125614479</updated>
+    </task>
+    <option name="localTasksCounter" value="531" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="482065" />
     <MESSAGE value="11 3657" />
     <MESSAGE value="67 1074" />
     <MESSAGE value="76" />
@@ -909,10 +909,18 @@
     <MESSAGE value="1" />
     <MESSAGE value="50" />
     <MESSAGE value="14316872222" />
-    <option name="LAST_COMMIT_MESSAGE" value="14316872222" />
+    <MESSAGE value="10007 7953" />
+    <option name="LAST_COMMIT_MESSAGE" value="10007 7953" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Normeses/8-4-25/task 24 - from dosrok/task 24 - from dosrok.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
