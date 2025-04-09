@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="19" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1040 57">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,7 @@
     "Python.task 1 - 19233.executor": "Run",
     "Python.task 1 - 4581.executor": "Run",
     "Python.task 1 - 4606.executor": "Run",
+    "Python.task 1 - 5423.executor": "Run",
     "Python.task 1 - 5896.executor": "Run",
     "Python.task 1 - 9732.executor": "Run",
     "Python.task 1 - 9770.executor": "Run",
@@ -363,6 +366,7 @@
     "Python.task 26 - 8279.executor": "Run",
     "Python.task 26 - 8512.executor": "Run",
     "Python.task 26 - 9171.executor": "Run",
+    "Python.task 26 - from dosrok.executor": "Run",
     "Python.task 26 Krylov-1.executor": "Run",
     "Python.task 26.executor": "Run",
     "Python.task 27 - 4260.executor": "Run",
@@ -449,7 +453,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/8-4-25/task 24 - from dosrok",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/8-4-25/task 26 - from dosrok",
     "settings.editor.selected.configurable": "preferences.keymap",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -457,11 +461,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 26 - from dosrok" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 24 - from dosrok" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 17 - from dosrok" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 5245" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 1379" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\29-3-25\task 26 - 14679" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\8-4-25\task 9 - from dosrok" />
@@ -486,14 +490,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00483" summary="0">
-      <option name="closed" value="true" />
-      <created>1743077110416</created>
-      <option name="number" value="00483" />
-      <option name="presentableId" value="LOCAL-00483" />
-      <option name="project" value="LOCAL" />
-      <updated>1743077110416</updated>
     </task>
     <task id="LOCAL-00484" summary="19) 33&#10;20) 30 32&#10;21) 29">
       <option name="closed" value="true" />
@@ -879,11 +875,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744127280417</updated>
     </task>
-    <option name="localTasksCounter" value="532" />
+    <task id="LOCAL-00532" summary="1040 57">
+      <option name="closed" value="true" />
+      <created>1744127652023</created>
+      <option name="number" value="00532" />
+      <option name="presentableId" value="LOCAL-00532" />
+      <option name="project" value="LOCAL" />
+      <updated>1744127652023</updated>
+    </task>
+    <option name="localTasksCounter" value="533" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="67 1074" />
     <MESSAGE value="76" />
     <MESSAGE value="19) 19&#10;20) 16 18&#10;21) 15" />
     <MESSAGE value="19) 7&#10;20) 10 19&#10;21) 18" />
@@ -908,7 +911,8 @@
     <MESSAGE value="14316872222" />
     <MESSAGE value="10007 7953" />
     <MESSAGE value="19" />
-    <option name="LAST_COMMIT_MESSAGE" value="19" />
+    <MESSAGE value="1040 57" />
+    <option name="LAST_COMMIT_MESSAGE" value="1040 57" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
