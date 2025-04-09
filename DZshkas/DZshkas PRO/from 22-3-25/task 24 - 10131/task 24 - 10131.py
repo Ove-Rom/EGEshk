@@ -21,22 +21,22 @@ data = open("24_10131.txt").read()
 #
 # for i in range(len(cordsA) - 1):
 #     for j in range(i, len(cordsA) - 1):
-#         line = data[cordsA[i - 1] + 1:cordsA[j + 1]]
+#         tab = data[cordsA[i - 1] + 1:cordsA[j + 1]]
 #         cA = j - i + 1
-#         cB = line.count('B')
+#         cB = tab.count('B')
 #         if cA > cB: continue
 #         while cA != cB:
-#             lB = line.find('B')
-#             rB = len(line) - line.rfind('B')
+#             lB = tab.find('B')
+#             rB = len(tab) - tab.rfind('B')
 #             if lB < rB:
-#                 line = line[lB + 1:]
+#                 tab = tab[lB + 1:]
 #             elif lB > rB:
-#                 line = line[:lB]
+#                 tab = tab[:lB]
 #             else:
-#                 line = line[lB + 1:]
+#                 tab = tab[lB + 1:]
 #             cB -= 1
 #         if cA == cB:
-#             ans = max(ans, len(line[cordsA[j+i] - cordsA[i - 1] + 1]))
+#             ans = max(ans, len(tab[cordsA[j+i] - cordsA[i - 1] + 1]))
 #
 
 s = data
