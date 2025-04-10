@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="&#10;17" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="&#10;1663">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2024.3/python_stubs/56370345/itertools.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DZshkas/HYPERprobnik/task 14 - 6847.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -93,6 +96,7 @@
     "Python.task 13 - 10574.executor": "Run",
     "Python.task 13 - 10575.executor": "Run",
     "Python.task 13 - 10578.executor": "Run",
+    "Python.task 13 - 17867.executor": "Run",
     "Python.task 13 - from dosrok.executor": "Run",
     "Python.task 13.executor": "Run",
     "Python.task 14  18488.executor": "Run",
@@ -108,6 +112,7 @@
     "Python.task 14 - 19406.executor": "Run",
     "Python.task 14 - 19705.executor": "Run",
     "Python.task 14 - 20904.executor": "Run",
+    "Python.task 14 - 6847.executor": "Run",
     "Python.task 14.executor": "Run",
     "Python.task 15 - 1013.executor": "Run",
     "Python.task 15 - 11665.executor": "Run",
@@ -495,14 +500,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00492" summary="1273552 229&#10;1273585 1607&#10;1273596 719&#10;1273606 863&#10;1273608 31">
-      <option name="closed" value="true" />
-      <created>1743171590611</created>
-      <option name="number" value="00492" />
-      <option name="presentableId" value="LOCAL-00492" />
-      <option name="project" value="LOCAL" />
-      <updated>1743171590611</updated>
-    </task>
     <task id="LOCAL-00493" summary="1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609">
       <option name="closed" value="true" />
       <created>1743171852815</created>
@@ -887,11 +884,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744226181880</updated>
     </task>
-    <option name="localTasksCounter" value="541" />
+    <task id="LOCAL-00541" summary="&#10;1663">
+      <option name="closed" value="true" />
+      <created>1744226515808</created>
+      <option name="number" value="00541" />
+      <option name="presentableId" value="LOCAL-00541" />
+      <option name="project" value="LOCAL" />
+      <updated>1744226515809</updated>
+    </task>
+    <option name="localTasksCounter" value="542" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="34 10&#10;2962963 14&#10;1793722 30&#10;21052632 62&#10;754717 14" />
     <MESSAGE value="2424" />
     <MESSAGE value="1390" />
     <MESSAGE value="26" />
@@ -916,7 +920,8 @@
     <MESSAGE value="&#10;1562" />
     <MESSAGE value="&#10;241" />
     <MESSAGE value="&#10;17" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;17" />
+    <MESSAGE value="&#10;1663" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;1663" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
