@@ -6,6 +6,6 @@ c = 0
 
 for ip in net:
     ip = f"{int(ip):032b}"
-    if ip.count('1') % 5: c += 1
+    if ip.count('1') % 5 == 0: c += 1
 
 print(c)
