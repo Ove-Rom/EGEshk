@@ -6,7 +6,7 @@ c = 0
 
 for ip in net:
     ip = bin(int(ip))[2:]
-    if ip.count('1') == ip.count('0'):
+    if ip.count('1') % 2:
         c += 1
 
 print(c)
