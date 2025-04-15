@@ -1,4 +1,3 @@
-from importlib.resources import read_text
 from ipaddress import *
 
 net = ip_network("214.187.224.0/255.255.224.0", False)
