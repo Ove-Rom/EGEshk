@@ -6,6 +6,6 @@ for a in range(255, -1, -1):
         s = f"{int(i):032b}"
         if not(s[:16].count("0") <= s[16:].count("0")):
             break
-        else:
-            print(a)
-            exit()
+    else:
+        print(a)
+        break
