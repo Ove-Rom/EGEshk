@@ -1,6 +1,10 @@
-garph = {"a":"bcz", "b":"cd", "c":"bdz",
+garph = {"a":"bcz", "b":"cd", "c":"bdz", # 2 вариант
          "d":"efz", "e":"dfz", "f":"ez",
          "z":"a"}
+
+# garph = {"a":"bcz", "b":"cd", "c":"dz", # 1 вариант
+#          "d":"efz", "e":"fz", "f":"ez",
+#          "z":"a"}
 
 def f(fn, p):
     global cnt
