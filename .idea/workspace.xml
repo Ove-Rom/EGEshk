@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="249966 617">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="192">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZshkas/probnik/tasks 19, 20, 21.py" beforePathEscaped="$PROJECT_DIR$/DZshkas/🤙probnik/tasks 19, 20, 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/probnik/tasks 19, 20, 21 - 19635.py" afterPathEscaped="$PROJECT_DIR$/DZshkas/🤙probnik/tasks 19, 20, 21 - 19635.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
     "Python.task 1 - 913.executor": "Run",
     "Python.task 1 - 9732.executor": "Run",
     "Python.task 1 - 9770.executor": "Run",
+    "Python.task 1 - konchenoye.executor": "Run",
     "Python.task 1 -17514.executor": "Run",
     "Python.task 1.executor": "Run",
     "Python.task 116 - 19248.executor": "Run",
@@ -514,6 +516,7 @@
     "Python.tasks 19, 20, 21 - 1863.executor": "Run",
     "Python.tasks 19, 20, 21 - 19120.executor": "Run",
     "Python.tasks 19, 20, 21 - 19251.executor": "Run",
+    "Python.tasks 19, 20, 21 - 19635.executor": "Run",
     "Python.tasks 19, 20, 21 - 19750.executor": "Run",
     "Python.tasks 19, 20, 21 - 2369.executor": "Run",
     "Python.tasks 19, 20, 21 - 2712.executor": "Run",
@@ -572,46 +575,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00597" summary="1562">
-      <option name="closed" value="true" />
-      <created>1744729298497</created>
-      <option name="number" value="00597" />
-      <option name="presentableId" value="LOCAL-00597" />
-      <option name="project" value="LOCAL" />
-      <updated>1744729298497</updated>
-    </task>
-    <task id="LOCAL-00598" summary="13003">
-      <option name="closed" value="true" />
-      <created>1744729980125</created>
-      <option name="number" value="00598" />
-      <option name="presentableId" value="LOCAL-00598" />
-      <option name="project" value="LOCAL" />
-      <updated>1744729980125</updated>
-    </task>
-    <task id="LOCAL-00599" summary="6">
-      <option name="closed" value="true" />
-      <created>1744731251701</created>
-      <option name="number" value="00599" />
-      <option name="presentableId" value="LOCAL-00599" />
-      <option name="project" value="LOCAL" />
-      <updated>1744731251701</updated>
-    </task>
-    <task id="LOCAL-00600" summary="127">
-      <option name="closed" value="true" />
-      <created>1744731632327</created>
-      <option name="number" value="00600" />
-      <option name="presentableId" value="LOCAL-00600" />
-      <option name="project" value="LOCAL" />
-      <updated>1744731632327</updated>
-    </task>
-    <task id="LOCAL-00601" summary="240">
-      <option name="closed" value="true" />
-      <created>1744732681745</created>
-      <option name="number" value="00601" />
-      <option name="presentableId" value="LOCAL-00601" />
-      <option name="project" value="LOCAL" />
-      <updated>1744732681745</updated>
     </task>
     <task id="LOCAL-00602" summary="34">
       <option name="closed" value="true" />
@@ -965,7 +928,47 @@
       <option name="project" value="LOCAL" />
       <updated>1745222426090</updated>
     </task>
-    <option name="localTasksCounter" value="646" />
+    <task id="LOCAL-00646" summary="12">
+      <option name="closed" value="true" />
+      <created>1745223733336</created>
+      <option name="number" value="00646" />
+      <option name="presentableId" value="LOCAL-00646" />
+      <option name="project" value="LOCAL" />
+      <updated>1745223733336</updated>
+    </task>
+    <task id="LOCAL-00647" summary="1) 8&#10;2) 12">
+      <option name="closed" value="true" />
+      <created>1745223827740</created>
+      <option name="number" value="00647" />
+      <option name="presentableId" value="LOCAL-00647" />
+      <option name="project" value="LOCAL" />
+      <updated>1745223827740</updated>
+    </task>
+    <task id="LOCAL-00648" summary="273">
+      <option name="closed" value="true" />
+      <created>1745240569536</created>
+      <option name="number" value="00648" />
+      <option name="presentableId" value="LOCAL-00648" />
+      <option name="project" value="LOCAL" />
+      <updated>1745240569537</updated>
+    </task>
+    <task id="LOCAL-00649" summary="273">
+      <option name="closed" value="true" />
+      <created>1745240574813</created>
+      <option name="number" value="00649" />
+      <option name="presentableId" value="LOCAL-00649" />
+      <option name="project" value="LOCAL" />
+      <updated>1745240574813</updated>
+    </task>
+    <task id="LOCAL-00650" summary="192">
+      <option name="closed" value="true" />
+      <created>1745254159910</created>
+      <option name="number" value="00650" />
+      <option name="presentableId" value="LOCAL-00650" />
+      <option name="project" value="LOCAL" />
+      <updated>1745254159910</updated>
+    </task>
+    <option name="localTasksCounter" value="651" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -980,10 +983,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231" />
-    <MESSAGE value="20" />
-    <MESSAGE value="32" />
-    <MESSAGE value="24" />
     <MESSAGE value="17" />
     <MESSAGE value="129" />
     <MESSAGE value="240" />
@@ -1005,7 +1004,11 @@
     <MESSAGE value="9988877898985" />
     <MESSAGE value="52" />
     <MESSAGE value="249966 617" />
-    <option name="LAST_COMMIT_MESSAGE" value="249966 617" />
+    <MESSAGE value="12" />
+    <MESSAGE value="1) 8&#10;2) 12" />
+    <MESSAGE value="273" />
+    <MESSAGE value="192" />
+    <option name="LAST_COMMIT_MESSAGE" value="192" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
