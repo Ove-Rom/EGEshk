@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="652">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="71">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Normeses/varik 22-4-25/task 8 - 19480.py" beforeDir="false" />
     </list>
@@ -348,6 +348,7 @@
     "Python.task 24 - 5237.executor": "Run",
     "Python.task 24 - 7193.executor": "Run",
     "Python.task 24 - from dosrok.executor": "Run",
+    "Python.task 24 - kp8100.executor": "Run",
     "Python.task 24 - kp8115.executor": "Run",
     "Python.task 24 from probnik.executor": "Run",
     "Python.task 24 v2.executor": "Run",
@@ -555,7 +556,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/26-4-25/task 24 - kp8115",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/26-4-25/task 24 - kp8100",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -563,11 +564,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8100" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8115" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\19-4-25\task 24 - 15339" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\19-4-25\task 24 - 16269" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\19-4-25\task 24 - 18147" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\19-4-25\task 24 - 18284" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\DZshkas PRO\EGKR 19-4-25\task 9 - 21704" />
@@ -592,14 +593,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00627" summary="16">
-      <option name="closed" value="true" />
-      <created>1744989455103</created>
-      <option name="number" value="00627" />
-      <option name="presentableId" value="LOCAL-00627" />
-      <option name="project" value="LOCAL" />
-      <updated>1744989455103</updated>
     </task>
     <task id="LOCAL-00628" summary="25">
       <option name="closed" value="true" />
@@ -985,7 +978,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745661750212</updated>
     </task>
-    <option name="localTasksCounter" value="676" />
+    <task id="LOCAL-00676" summary="71">
+      <option name="closed" value="true" />
+      <created>1745677674409</created>
+      <option name="number" value="00676" />
+      <option name="presentableId" value="LOCAL-00676" />
+      <option name="project" value="LOCAL" />
+      <updated>1745677674409</updated>
+    </task>
+    <option name="localTasksCounter" value="677" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1000,7 +1001,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="249966 617" />
     <MESSAGE value="12" />
     <MESSAGE value="1) 8&#10;2) 12" />
     <MESSAGE value="273" />
@@ -1025,7 +1025,8 @@
     <MESSAGE value="679" />
     <MESSAGE value="8346" />
     <MESSAGE value="652" />
-    <option name="LAST_COMMIT_MESSAGE" value="652" />
+    <MESSAGE value="71" />
+    <option name="LAST_COMMIT_MESSAGE" value="71" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
