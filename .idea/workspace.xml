@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="118">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Normeses/varik 22-4-25/task 8 - 19480.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -347,7 +348,7 @@
     "Python.task 24 - 5237.executor": "Run",
     "Python.task 24 - 7193.executor": "Run",
     "Python.task 24 - from dosrok.executor": "Run",
-    "Python.task 24 - kp8058.executor": "Run",
+    "Python.task 24 - kp8058.executor": "Debug",
     "Python.task 24 - kp8060.executor": "Run",
     "Python.task 24 - kp8100.executor": "Run",
     "Python.task 24 - kp8115.executor": "Run",
@@ -524,6 +525,7 @@
     "Python.task 9 - 9778.executor": "Run",
     "Python.task 9 - Ladyua.executor": "Run",
     "Python.task 9 - from dosrok.executor": "Run",
+    "Python.task kp7979.executor": "Run",
     "Python.task task 25 - 1393.executor": "Run",
     "Python.task14 - 20490.executor": "Run",
     "Python.tasks 19, 20, 21 - 12473.executor": "Run",
@@ -557,7 +559,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/26-4-25/task 24 - kp8058",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/26-4-25/task kp7979",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -565,11 +567,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task kp7979" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8058" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8060" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8100" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp8115" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\19-4-25\task 24 - 15339" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\DZshkas PRO\EGKR 19-4-25\task 9 - 21704" />
@@ -594,14 +596,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00630" summary="64">
-      <option name="closed" value="true" />
-      <created>1744990253955</created>
-      <option name="number" value="00630" />
-      <option name="presentableId" value="LOCAL-00630" />
-      <option name="project" value="LOCAL" />
-      <updated>1744990253955</updated>
     </task>
     <task id="LOCAL-00631" summary="51 6410">
       <option name="closed" value="true" />
@@ -987,7 +981,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745680626369</updated>
     </task>
-    <option name="localTasksCounter" value="679" />
+    <task id="LOCAL-00679" summary="22">
+      <option name="closed" value="true" />
+      <created>1745681656343</created>
+      <option name="number" value="00679" />
+      <option name="presentableId" value="LOCAL-00679" />
+      <option name="project" value="LOCAL" />
+      <updated>1745681656343</updated>
+    </task>
+    <option name="localTasksCounter" value="680" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1002,7 +1004,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="273" />
     <MESSAGE value="192" />
     <MESSAGE value="19) 59 &#10;20) 115 229&#10;21) 124" />
     <MESSAGE value="2471" />
@@ -1027,7 +1028,8 @@
     <MESSAGE value="71" />
     <MESSAGE value="55" />
     <MESSAGE value="118" />
-    <option name="LAST_COMMIT_MESSAGE" value="118" />
+    <MESSAGE value="22" />
+    <option name="LAST_COMMIT_MESSAGE" value="22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
