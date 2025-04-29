@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="49">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Normeses/29-4-25/task 13 - 10781.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Normeses/varik 22-4-25/task 8 - 19480.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,6 +460,7 @@
     "Python.task 27 - 17882.executor": "Run",
     "Python.task 27 - 18050.executor": "Run",
     "Python.task 27 - 20130.executor": "Run",
+    "Python.task 27 - 21425.executor": "Run",
     "Python.task 27 - 4260.executor": "Run",
     "Python.task 27 - 93 KPolyakov.executor": "Run",
     "Python.task 27.executor": "Run",
@@ -570,7 +569,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/29-4-25/task 27 - 17882",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/29-4-25/task 27 - 21425",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -578,11 +577,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\29-4-25\task 27 - 21425" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\29-4-25\task 27 - 17882" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\29-4-25\task 24 - 8579" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - 4723" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - kp5829" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\26-4-25\task 24 - 680" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\DZshkas\DZshkas PRO\EGKR 19-4-25\task 9 - 21704" />
@@ -607,22 +606,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00643" summary="9988877898985">
-      <option name="closed" value="true" />
-      <created>1745075083578</created>
-      <option name="number" value="00643" />
-      <option name="presentableId" value="LOCAL-00643" />
-      <option name="project" value="LOCAL" />
-      <updated>1745075083578</updated>
-    </task>
-    <task id="LOCAL-00644" summary="52">
-      <option name="closed" value="true" />
-      <created>1745076640266</created>
-      <option name="number" value="00644" />
-      <option name="presentableId" value="LOCAL-00644" />
-      <option name="project" value="LOCAL" />
-      <updated>1745076640266</updated>
     </task>
     <task id="LOCAL-00645" summary="249966 617">
       <option name="closed" value="true" />
@@ -1000,7 +983,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745938164669</updated>
     </task>
-    <option name="localTasksCounter" value="692" />
+    <task id="LOCAL-00692" summary="10738 10738&#10;37522 37522">
+      <option name="closed" value="true" />
+      <created>1745940750014</created>
+      <option name="number" value="00692" />
+      <option name="presentableId" value="LOCAL-00692" />
+      <option name="project" value="LOCAL" />
+      <updated>1745940750014</updated>
+    </task>
+    <task id="LOCAL-00693" summary="+">
+      <option name="closed" value="true" />
+      <created>1745940771931</created>
+      <option name="number" value="00693" />
+      <option name="presentableId" value="LOCAL-00693" />
+      <option name="project" value="LOCAL" />
+      <updated>1745940771931</updated>
+    </task>
+    <option name="localTasksCounter" value="694" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1015,8 +1014,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1053884" />
-    <MESSAGE value="41204" />
     <MESSAGE value="9500776 1626&#10;9504690 4878&#10;9506575 9756&#10;9506999 110568&#10;9503921 678855" />
     <MESSAGE value="31" />
     <MESSAGE value="z y x w" />
@@ -1040,7 +1037,9 @@
     <MESSAGE value="170083346818 1965986&#10;173010946738 1999826&#10;175769846308 2031716&#10;177402346618 2050586&#10;177965546248 2057096&#10;178697446228 2065556" />
     <MESSAGE value="4294967296" />
     <MESSAGE value="49" />
-    <option name="LAST_COMMIT_MESSAGE" value="49" />
+    <MESSAGE value="10738 10738&#10;37522 37522" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
