@@ -30,7 +30,7 @@ def c(cl):
     return min(ans)[1]
 
 cents = [c(i) for i in [cl1, cl2, cl3, cl4, cl5]]
-px = int(sum(i[0] for i in cents) * 10_000 / 5)
-py = int(sum(i[1] for i in cents) * 10_000 / 5)
+px = int(sum(i[0] for i in cents) * 100_000 / 5)
+py = int(sum(i[1] for i in cents) * 100_000 / 5)
 
 print(px, py)
