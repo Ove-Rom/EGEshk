@@ -9,7 +9,7 @@ def f19(a, n):
     if a >= 348: return n % 2 == 0
     if n == 0: return 0
     h = [f19(a + 3, n - 1), f19(a * 3, n - 1)]
-    return any(h)
+    return any(h) 
 
 
 print("19)", *[a for a in range(1, 348) if f19(a, 2)])
