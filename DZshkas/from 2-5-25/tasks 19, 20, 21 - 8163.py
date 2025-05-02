@@ -12,6 +12,6 @@ def f19(a, n):
     return any(h)
 
 
-print("19)", *[a for a in range(3, 348) if f19(a, 2)])
-print("20)", *[a for a in range(3, 348) if f(a, 3) and not f(a, 1)])
-print("21)", *[a for a in range(3, 348) if f(a, 4) and not f(a, 2)])
+print("19)", *[a for a in range(1, 348) if f19(a, 2)])
+print("20)", *[a for a in range(1, 348) if f(a, 3) and not f(a, 1)])
+print("21)", *[a for a in range(1, 348) if f(a, 4) and not f(a, 2)])
