@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="9">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="126">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -536,6 +536,7 @@
     "Python.task 8 - 19753.executor": "Run",
     "Python.task 8 - 21703.executor": "Run",
     "Python.task 8 - 3029.executor": "Run",
+    "Python.task 8 - 3149.executor": "Run",
     "Python.task 8 - 360.executor": "Run",
     "Python.task 8 - 4320.executor": "Run",
     "Python.task 8 - 5300.executor": "Run",
@@ -629,14 +630,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00676" summary="71">
-      <option name="closed" value="true" />
-      <created>1745677674409</created>
-      <option name="number" value="00676" />
-      <option name="presentableId" value="LOCAL-00676" />
-      <option name="project" value="LOCAL" />
-      <updated>1745677674409</updated>
     </task>
     <task id="LOCAL-00677" summary="55">
       <option name="closed" value="true" />
@@ -1022,7 +1015,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746732200707</updated>
     </task>
-    <option name="localTasksCounter" value="725" />
+    <task id="LOCAL-00725" summary="126">
+      <option name="closed" value="true" />
+      <created>1746732985591</created>
+      <option name="number" value="00725" />
+      <option name="presentableId" value="LOCAL-00725" />
+      <option name="project" value="LOCAL" />
+      <updated>1746732985591</updated>
+    </task>
+    <option name="localTasksCounter" value="726" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1037,7 +1038,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1048576 0&#10;2097152 0&#10;3145728 3145725&#10;4194304 0&#10;5242880 5242875" />
     <MESSAGE value="10592 6300&#10;15981 37287" />
     <MESSAGE value="2001" />
     <MESSAGE value="48" />
@@ -1062,7 +1062,8 @@
     <MESSAGE value="ywzx" />
     <MESSAGE value="19" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="126" />
+    <option name="LAST_COMMIT_MESSAGE" value="126" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
