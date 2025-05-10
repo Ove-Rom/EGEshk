@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="346" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="2400 881">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,6 +247,7 @@
     "Python.task 17 - 4622.executor": "Run",
     "Python.task 17 - 4705.executor": "Run",
     "Python.task 17 - 5758.executor": "Run",
+    "Python.task 17 - 6089.executor": "Run",
     "Python.task 17 - 6791.executor": "Run",
     "Python.task 17 - 7716.executor": "Run",
     "Python.task 17 - 7718.executor": "Run",
@@ -593,6 +596,7 @@
     "Python.tasks 19, 20, 21 - 7850.executor": "Run",
     "Python.tasks 19, 20, 21 - 8163.executor": "Run",
     "Python.tasks 19, 20, 21 - 8684.executor": "Run",
+    "Python.tasks 19, 20, 21 - 9172.executor": "Run",
     "Python.tasks 19, 20, 21 - Papa & Vanya.executor": "Run",
     "Python.tasks 19, 20, 21.executor": "Run",
     "Python.tasks 19б 20б 21 - 17638.executor": "Run",
@@ -641,22 +645,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00693" summary="+">
-      <option name="closed" value="true" />
-      <created>1745940771931</created>
-      <option name="number" value="00693" />
-      <option name="presentableId" value="LOCAL-00693" />
-      <option name="project" value="LOCAL" />
-      <updated>1745940771931</updated>
-    </task>
-    <task id="LOCAL-00694" summary="26">
-      <option name="closed" value="true" />
-      <created>1746014300002</created>
-      <option name="number" value="00694" />
-      <option name="presentableId" value="LOCAL-00694" />
-      <option name="project" value="LOCAL" />
-      <updated>1746014300002</updated>
     </task>
     <task id="LOCAL-00695" summary="26">
       <option name="closed" value="true" />
@@ -1034,7 +1022,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746901949855</updated>
     </task>
-    <option name="localTasksCounter" value="742" />
+    <task id="LOCAL-00742" summary="11 1416">
+      <option name="closed" value="true" />
+      <created>1746902994487</created>
+      <option name="number" value="00742" />
+      <option name="presentableId" value="LOCAL-00742" />
+      <option name="project" value="LOCAL" />
+      <updated>1746902994488</updated>
+    </task>
+    <task id="LOCAL-00743" summary="2400 881">
+      <option name="closed" value="true" />
+      <created>1746903290002</created>
+      <option name="number" value="00743" />
+      <option name="presentableId" value="LOCAL-00743" />
+      <option name="project" value="LOCAL" />
+      <updated>1746903290002</updated>
+    </task>
+    <option name="localTasksCounter" value="744" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1049,8 +1053,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="19) 39 &#10;20) 38 110&#10;21) 107" />
-    <MESSAGE value="13258 2656&#10;-209434 474989" />
     <MESSAGE value="132035 86733&#10;-13054 -128771" />
     <MESSAGE value="14803 -51534&#10;216297 43456" />
     <MESSAGE value="14976 1347&#10;23102 4049" />
@@ -1074,7 +1076,9 @@
     <MESSAGE value="346070 215898&#10;455364 406022" />
     <MESSAGE value="529507 71263&#10;669946 370701" />
     <MESSAGE value="346" />
-    <option name="LAST_COMMIT_MESSAGE" value="346" />
+    <MESSAGE value="11 1416" />
+    <MESSAGE value="2400 881" />
+    <option name="LAST_COMMIT_MESSAGE" value="2400 881" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
