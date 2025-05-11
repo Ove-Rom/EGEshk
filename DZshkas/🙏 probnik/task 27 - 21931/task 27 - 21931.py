@@ -1,7 +1,7 @@
 from math import dist
 
-# with open("27_A_21931.txt") as f:
-with open("27_B_21931.txt") as f:
+with open("27_A_21931.txt") as f:
+# with open("27_B_21931.txt") as f:
     data = [list(map(float, i.split())) for i in f]
     # c1 = []
     # c2 = []
@@ -37,10 +37,7 @@ while data:
                 data.remove(d2)
     clast.append(cl)
 
-cent = [c(i) for i in clast]
-print(cent)
-
-px = int(sum(i[0] for i in cent) * 10_000 / len(cent))
-py = int(sum(i[1] for i in cent) * 10_000 / len(cent))
+px = int(c(min(clast, key=len))[0] * 10_000)
+py = int(c(max(clast, key=len))[1] * 10_000)
 
 print(px, py)
