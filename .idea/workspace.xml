@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="1663 61127&#10;147474 61934">
-      <change beforePath="$PROJECT_DIR$/DZshkas/ probnik/task 24 - 14502/task 24 - 14502.py" beforePathEscaped="$PROJECT_DIR$/DZshkas/🙏 probnik/task 24 - 14502/task 24 - 14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZshkas/ probnik/task 24 - 14502/task 24 - 14502.py" afterPathEscaped="$PROJECT_DIR$/DZshkas/🙏 probnik/task 24 - 14502/task 24 - 14502.py" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="2 643">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
     "Python.task 1 - 4606.executor": "Run",
     "Python.task 1 - 5423.executor": "Run",
     "Python.task 1 - 5896.executor": "Run",
+    "Python.task 1 - 8937.executor": "Run",
     "Python.task 1 - 9054.executor": "Run",
     "Python.task 1 - 913.executor": "Run",
     "Python.task 1 - 9148.executor": "Run",
@@ -637,7 +638,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
@@ -649,14 +650,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00704" summary="26216 24182&#10;150891 63754">
-      <option name="closed" value="true" />
-      <created>1746198642105</created>
-      <option name="number" value="00704" />
-      <option name="presentableId" value="LOCAL-00704" />
-      <option name="project" value="LOCAL" />
-      <updated>1746198642105</updated>
     </task>
     <task id="LOCAL-00705" summary="32540 13646&#10;47031 25263">
       <option name="closed" value="true" />
@@ -1042,7 +1035,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746971094749</updated>
     </task>
-    <option name="localTasksCounter" value="753" />
+    <task id="LOCAL-00753" summary="2 643">
+      <option name="closed" value="true" />
+      <created>1746972026773</created>
+      <option name="number" value="00753" />
+      <option name="presentableId" value="LOCAL-00753" />
+      <option name="project" value="LOCAL" />
+      <updated>1746972026773</updated>
+    </task>
+    <option name="localTasksCounter" value="754" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1077,12 +1078,12 @@
     <MESSAGE value="8" />
     <MESSAGE value="9540" />
     <MESSAGE value="6007401&#10;8940100&#10;2582449&#10;8300161&#10;2105401" />
-    <MESSAGE value="2 643" />
     <MESSAGE value="440" />
     <MESSAGE value="18049 111324&#10;174474 142246" />
     <MESSAGE value="61236" />
     <MESSAGE value="1663 61127&#10;147474 61934" />
-    <option name="LAST_COMMIT_MESSAGE" value="1663 61127&#10;147474 61934" />
+    <MESSAGE value="2 643" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 643" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
