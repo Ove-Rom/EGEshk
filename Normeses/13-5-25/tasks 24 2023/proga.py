@@ -122,5 +122,30 @@ from string import ascii_uppercase
 #     data = data.replace(i, " ")
 #
 # data = data.split()
-#
+# ans = 0
+# for i in data:
+#     s = i.lstrip("0")
+#     midAns = [0]
+#     for i in range(len(s)):
+#         for j in range(len(s), i, -1):
+#             print(s[i:j])
+#             if s[i:j] and int(s[i:j], 16) % 20 == 0:
+#                 midAns.append(len(s[i:j]))
+#                 break
+#     ans = max(midAns)
+# print(ans)
+
 # print(len(max(data, key=len)))
+
+with open("24_9753.txt") as f:
+    data = f.read()
+
+data = data.split("Y")
+
+ans = []
+
+for i in range(len(data) - 149):
+    s = data[i:i+150]
+    ans.append(len("".join(s)) + 150)
+
+print(max(ans))
