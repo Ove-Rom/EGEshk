@@ -33,10 +33,21 @@ from re import finditer
 #
 # print(max(ans))
 
-with open("24_16388.txt") as f:
+# with open("24_16388.txt") as f:
+#     data = f.read()
+#
+# pat = r"(LMN|MN|N)?(KLMN)+(KLM|KL|K)?"
+#
+# ans = []
+# for i in finditer(pat, data):
+#     ans.append(len(i.group()))
+#
+# print(max(ans))
+
+with open("24_17563.txt") as f:
     data = f.read()
 
-pat = r"(LMN|MN|N)?(KLMN)+(KLM|KL|K)?"
+pat = r"(([1-9]\d*)+[-*])+([1-9]\d*)+"
 
 ans = []
 for i in finditer(pat, data):

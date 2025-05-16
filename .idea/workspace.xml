@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="244">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="182">
+      <change beforePath="$PROJECT_DIR$/Normeses/16-5-25/tasks 24 2024/proga.py" beforeDir="false" afterPath="$PROJECT_DIR$/Normeses/16-5-25/tasks 24 2024/proga.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -659,14 +659,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00719" summary="14803 -51534&#10;216297 43456">
-      <option name="closed" value="true" />
-      <created>1746544994513</created>
-      <option name="number" value="00719" />
-      <option name="presentableId" value="LOCAL-00719" />
-      <option name="project" value="LOCAL" />
-      <updated>1746544994513</updated>
-    </task>
     <task id="LOCAL-00720" summary="14976 1347&#10;23102 4049">
       <option name="closed" value="true" />
       <created>1746546537087</created>
@@ -1051,7 +1043,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747409216641</updated>
     </task>
-    <option name="localTasksCounter" value="768" />
+    <task id="LOCAL-00768" summary="182">
+      <option name="closed" value="true" />
+      <created>1747410671912</created>
+      <option name="number" value="00768" />
+      <option name="presentableId" value="LOCAL-00768" />
+      <option name="project" value="LOCAL" />
+      <updated>1747410671912</updated>
+    </task>
+    <option name="localTasksCounter" value="769" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1066,7 +1066,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="346" />
     <MESSAGE value="11 1416" />
     <MESSAGE value="2400 881" />
     <MESSAGE value="19) 92&#10;20) 43 44&#10;21) 29" />
@@ -1091,7 +1090,8 @@
     <MESSAGE value="1023" />
     <MESSAGE value="244" />
     <MESSAGE value="pupupuuuu" />
-    <option name="LAST_COMMIT_MESSAGE" value="pupupuuuu" />
+    <MESSAGE value="182" />
+    <option name="LAST_COMMIT_MESSAGE" value="182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
