@@ -144,8 +144,8 @@ data = data.split("Y")
 
 ans = []
 
-for i in range(len(data) - 149):
-    s = data[i:i+150]
+for i in range(len(data) - 150):
+    s = data[i:i+151]
     ans.append(len("".join(s)) + 150)
 
 print(max(ans))
