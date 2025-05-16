@@ -1,0 +1,1 @@
+print(len(max(open("24_2421.txt").read().split("D"), key=len)))
