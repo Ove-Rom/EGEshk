@@ -2,7 +2,7 @@ from re import finditer
 
 from tqdm import tqdm
 
-with open("24_17641.txt") as f:
+with open("24_17685.txt") as f:
     data = f.read()
 
 pat = r"(\d+[+*])+(\d+)"

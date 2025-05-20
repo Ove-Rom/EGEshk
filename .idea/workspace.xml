@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="22">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="142" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -666,14 +664,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00729" summary="20">
-      <option name="closed" value="true" />
-      <created>1746792464105</created>
-      <option name="number" value="00729" />
-      <option name="presentableId" value="LOCAL-00729" />
-      <option name="project" value="LOCAL" />
-      <updated>1746792464105</updated>
-    </task>
     <task id="LOCAL-00730" summary="29">
       <option name="closed" value="true" />
       <created>1746793582405</created>
@@ -1058,7 +1048,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747753728972</updated>
     </task>
-    <option name="localTasksCounter" value="778" />
+    <task id="LOCAL-00778" summary="142">
+      <option name="closed" value="true" />
+      <created>1747755697306</created>
+      <option name="number" value="00778" />
+      <option name="presentableId" value="LOCAL-00778" />
+      <option name="project" value="LOCAL" />
+      <updated>1747755697306</updated>
+    </task>
+    <option name="localTasksCounter" value="779" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1073,7 +1071,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1663 61127&#10;147474 61934" />
     <MESSAGE value="2 643" />
     <MESSAGE value="15" />
     <MESSAGE value="zwyx" />
@@ -1098,7 +1095,8 @@
     <MESSAGE value="-13" />
     <MESSAGE value="3080" />
     <MESSAGE value="22" />
-    <option name="LAST_COMMIT_MESSAGE" value="22" />
+    <MESSAGE value="142" />
+    <option name="LAST_COMMIT_MESSAGE" value="142" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
