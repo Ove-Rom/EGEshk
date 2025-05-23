@@ -1,6 +1,7 @@
 from re import finditer
 
-with open("24_17878.txt") as f:
+# with open("24_17878.txt") as f:
+with open("24_20813.txt") as f:
     data = f.read()
 
 n = r"([1-9]\d*|0)"
