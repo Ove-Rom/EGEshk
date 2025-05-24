@@ -6,10 +6,7 @@ with open("24-252.txt") as f:
 ans = []
 
 for i in tqdm(range(len(data))):
-    letter = data[i]
-    for j in range(i+1, len(data)):
-        if data[j] == letter:
-            ans.append([letter, len(data[i:j+1])])
-            break
+    nxt = data.find(data[i], i+1)
+    ans.append([data[i], nxt-i+1])
 
 print(*max(ans, key=lambda x: x[1]))
