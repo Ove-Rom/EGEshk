@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="8631 7311">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="263 86">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -464,6 +464,7 @@
     "Python.task 25 - from probik (ebanutoye).executor": "Run",
     "Python.task 25.executor": "Run",
     "Python.task 26 - 10107.executor": "Run",
+    "Python.task 26 - 1232.executor": "Run",
     "Python.task 26 - 1379.executor": "Run",
     "Python.task 26 - 14625.executor": "Run",
     "Python.task 26 - 14679.executor": "Run",
@@ -652,7 +653,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/30-5-25/task 26 - 2944",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Normeses/30-5-25/task 26 - 1232",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -660,11 +661,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 1232" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 2944" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 1868" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 3230" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 3586" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 4205" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Normeses\30-5-25\task 26 - 4205" />
@@ -689,14 +690,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00756" summary="43744 47901&#10;99895 100091">
-      <option name="closed" value="true" />
-      <created>1747147913768</created>
-      <option name="number" value="00756" />
-      <option name="presentableId" value="LOCAL-00756" />
-      <option name="project" value="LOCAL" />
-      <updated>1747147913768</updated>
     </task>
     <task id="LOCAL-00757" summary="пупупуууу">
       <option name="closed" value="true" />
@@ -1082,7 +1075,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748619657964</updated>
     </task>
-    <option name="localTasksCounter" value="805" />
+    <task id="LOCAL-00805" summary="263 86">
+      <option name="closed" value="true" />
+      <created>1748620629140</created>
+      <option name="number" value="00805" />
+      <option name="presentableId" value="LOCAL-00805" />
+      <option name="project" value="LOCAL" />
+      <updated>1748620629140</updated>
+    </task>
+    <option name="localTasksCounter" value="806" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1097,7 +1098,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="88950" />
     <MESSAGE value="104" />
     <MESSAGE value="6" />
     <MESSAGE value="431" />
@@ -1122,7 +1122,8 @@
     <MESSAGE value="4802 7468" />
     <MESSAGE value="2261 5087" />
     <MESSAGE value="8631 7311" />
-    <option name="LAST_COMMIT_MESSAGE" value="8631 7311" />
+    <MESSAGE value="263 86" />
+    <option name="LAST_COMMIT_MESSAGE" value="263 86" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
