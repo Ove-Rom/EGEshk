@@ -9,4 +9,4 @@ for n in range(1, 1000):
     if r <= 170:
         ans.append(r)
 
-print(min(ans))
+print(max(ans))
