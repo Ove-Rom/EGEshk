@@ -20,7 +20,7 @@ pd()
 for i in range(10):
     fd(72*m)
     rt(90)
-    fd(79)
+    fd(79*m)
     rt(90)
 
 for x in range(-100*m, 100*m, m):
