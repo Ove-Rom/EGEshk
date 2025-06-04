@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="24" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="240" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -754,22 +754,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00862" summary="490">
-      <option name="closed" value="true" />
-      <created>1748947922214</created>
-      <option name="number" value="00862" />
-      <option name="presentableId" value="LOCAL-00862" />
-      <option name="project" value="LOCAL" />
-      <updated>1748947922214</updated>
-    </task>
-    <task id="LOCAL-00863" summary="60065">
-      <option name="closed" value="true" />
-      <created>1748948085732</created>
-      <option name="number" value="00863" />
-      <option name="presentableId" value="LOCAL-00863" />
-      <option name="project" value="LOCAL" />
-      <updated>1748948085732</updated>
-    </task>
     <task id="LOCAL-00864" summary="6620">
       <option name="closed" value="true" />
       <created>1748953360849</created>
@@ -1146,7 +1130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749041993762</updated>
     </task>
-    <option name="localTasksCounter" value="911" />
+    <task id="LOCAL-00911" summary="127">
+      <option name="closed" value="true" />
+      <created>1749042377144</created>
+      <option name="number" value="00911" />
+      <option name="presentableId" value="LOCAL-00911" />
+      <option name="project" value="LOCAL" />
+      <updated>1749042377144</updated>
+    </task>
+    <task id="LOCAL-00912" summary="240">
+      <option name="closed" value="true" />
+      <created>1749042666555</created>
+      <option name="number" value="00912" />
+      <option name="presentableId" value="LOCAL-00912" />
+      <option name="project" value="LOCAL" />
+      <updated>1749042666555</updated>
+    </task>
+    <option name="localTasksCounter" value="913" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1161,7 +1161,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="38306" />
     <MESSAGE value="652" />
     <MESSAGE value="249" />
     <MESSAGE value="411" />
@@ -1183,10 +1182,11 @@
     <MESSAGE value="17" />
     <MESSAGE value="215766" />
     <MESSAGE value="2796202" />
-    <MESSAGE value="127" />
     <MESSAGE value="20" />
     <MESSAGE value="24" />
-    <option name="LAST_COMMIT_MESSAGE" value="24" />
+    <MESSAGE value="127" />
+    <MESSAGE value="240" />
+    <option name="LAST_COMMIT_MESSAGE" value="240" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
