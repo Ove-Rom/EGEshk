@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="89">
-      <change beforePath="$PROJECT_DIR$/Shpora/task 15/task 15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Shpora/task 15/task 15.txt" afterDir="false" />
-    </list>
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="pupupuuuu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -764,30 +762,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00873" summary="19">
-      <option name="closed" value="true" />
-      <created>1748956329297</created>
-      <option name="number" value="00873" />
-      <option name="presentableId" value="LOCAL-00873" />
-      <option name="project" value="LOCAL" />
-      <updated>1748956329297</updated>
-    </task>
-    <task id="LOCAL-00874" summary="261">
-      <option name="closed" value="true" />
-      <created>1748956739699</created>
-      <option name="number" value="00874" />
-      <option name="presentableId" value="LOCAL-00874" />
-      <option name="project" value="LOCAL" />
-      <updated>1748956739700</updated>
-    </task>
-    <task id="LOCAL-00875" summary="34">
-      <option name="closed" value="true" />
-      <created>1748957146957</created>
-      <option name="number" value="00875" />
-      <option name="presentableId" value="LOCAL-00875" />
-      <option name="project" value="LOCAL" />
-      <updated>1748957146957</updated>
-    </task>
     <task id="LOCAL-00876" summary="pupupuuuu">
       <option name="closed" value="true" />
       <created>1748957822333</created>
@@ -1156,7 +1130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749044651998</updated>
     </task>
-    <option name="localTasksCounter" value="922" />
+    <task id="LOCAL-00922" summary="88">
+      <option name="closed" value="true" />
+      <created>1749044835301</created>
+      <option name="number" value="00922" />
+      <option name="presentableId" value="LOCAL-00922" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044835301</updated>
+    </task>
+    <task id="LOCAL-00923" summary="pupupuuuu">
+      <option name="closed" value="true" />
+      <created>1749045288756</created>
+      <option name="number" value="00923" />
+      <option name="presentableId" value="LOCAL-00923" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045288756</updated>
+    </task>
+    <task id="LOCAL-00924" summary="pupupuuuu">
+      <option name="closed" value="true" />
+      <created>1749045304760</created>
+      <option name="number" value="00924" />
+      <option name="presentableId" value="LOCAL-00924" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045304760</updated>
+    </task>
+    <option name="localTasksCounter" value="925" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1171,14 +1169,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="170" />
     <MESSAGE value="58979" />
     <MESSAGE value="104" />
     <MESSAGE value="133" />
     <MESSAGE value="36" />
     <MESSAGE value="147" />
     <MESSAGE value="15115" />
-    <MESSAGE value="pupupuuuu" />
     <MESSAGE value="888" />
     <MESSAGE value="33" />
     <MESSAGE value="17" />
@@ -1196,7 +1192,9 @@
     <MESSAGE value="216" />
     <MESSAGE value="74" />
     <MESSAGE value="89" />
-    <option name="LAST_COMMIT_MESSAGE" value="89" />
+    <MESSAGE value="88" />
+    <MESSAGE value="pupupuuuu" />
+    <option name="LAST_COMMIT_MESSAGE" value="pupupuuuu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
