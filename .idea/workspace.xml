@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="582336" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="8191127" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,6 +239,7 @@
     "Python.task 16 - 17679.executor": "Run",
     "Python.task 16 - 17749.executor": "Run",
     "Python.task 16 - 17755.executor": "Run",
+    "Python.task 16 - 17872.executor": "Run",
     "Python.task 16 - 18123.executor": "Run",
     "Python.task 16 - 1860.executor": "Run",
     "Python.task 16 - 18866.executor": "Run",
@@ -734,7 +735,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Sundaaaaaay/31-5-25/task 26 - 21588",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 17/task 17 - 17636",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -771,22 +772,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00888" summary="44">
-      <option name="closed" value="true" />
-      <created>1749024418718</created>
-      <option name="number" value="00888" />
-      <option name="presentableId" value="LOCAL-00888" />
-      <option name="project" value="LOCAL" />
-      <updated>1749024418718</updated>
-    </task>
-    <task id="LOCAL-00889" summary="44">
-      <option name="closed" value="true" />
-      <created>1749025244909</created>
-      <option name="number" value="00889" />
-      <option name="presentableId" value="LOCAL-00889" />
-      <option name="project" value="LOCAL" />
-      <updated>1749025244909</updated>
     </task>
     <task id="LOCAL-00890" summary="170">
       <option name="closed" value="true" />
@@ -1164,7 +1149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749125189565</updated>
     </task>
-    <option name="localTasksCounter" value="937" />
+    <task id="LOCAL-00937" summary="4094550">
+      <option name="closed" value="true" />
+      <created>1749125269565</created>
+      <option name="number" value="00937" />
+      <option name="presentableId" value="LOCAL-00937" />
+      <option name="project" value="LOCAL" />
+      <updated>1749125269565</updated>
+    </task>
+    <task id="LOCAL-00938" summary="8191127">
+      <option name="closed" value="true" />
+      <created>1749125333300</created>
+      <option name="number" value="00938" />
+      <option name="presentableId" value="LOCAL-00938" />
+      <option name="project" value="LOCAL" />
+      <updated>1749125333300</updated>
+    </task>
+    <option name="localTasksCounter" value="939" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1179,8 +1180,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="215766" />
-    <MESSAGE value="2796202" />
     <MESSAGE value="20" />
     <MESSAGE value="24" />
     <MESSAGE value="127" />
@@ -1204,7 +1203,9 @@
     <MESSAGE value="1591" />
     <MESSAGE value="pupupuuuu" />
     <MESSAGE value="582336" />
-    <option name="LAST_COMMIT_MESSAGE" value="582336" />
+    <MESSAGE value="4094550" />
+    <MESSAGE value="8191127" />
+    <option name="LAST_COMMIT_MESSAGE" value="8191127" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
