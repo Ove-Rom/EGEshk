@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="8191127" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="147 944">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,6 +261,7 @@
     "Python.task 17 - 12735.executor": "Run",
     "Python.task 17 - 14952.executor": "Run",
     "Python.task 17 - 17636.executor": "Run",
+    "Python.task 17 - 17680.executor": "Run",
     "Python.task 17 - 17873.executor": "Run",
     "Python.task 17 - 18185.executor": "Run",
     "Python.task 17 - 18582.executor": "Run",
@@ -735,7 +738,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 17/task 17 - 17636",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 17/task 17 - 17680",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -743,11 +746,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17636" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\31-5-25\task 26 - 21588" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\31-5-25\task 26 - 9847" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\31-5-25\task 26 - 9793" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\31-5-25\task 26 - 9756" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Sundaaaaaay\31-5-25\task 26 - 7626" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 12" />
@@ -772,14 +775,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00890" summary="170">
-      <option name="closed" value="true" />
-      <created>1749026667419</created>
-      <option name="number" value="00890" />
-      <option name="presentableId" value="LOCAL-00890" />
-      <option name="project" value="LOCAL" />
-      <updated>1749026667419</updated>
     </task>
     <task id="LOCAL-00891" summary="2200">
       <option name="closed" value="true" />
@@ -1165,7 +1160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749125333300</updated>
     </task>
-    <option name="localTasksCounter" value="939" />
+    <task id="LOCAL-00939" summary="147 944">
+      <option name="closed" value="true" />
+      <created>1749125658123</created>
+      <option name="number" value="00939" />
+      <option name="presentableId" value="LOCAL-00939" />
+      <option name="project" value="LOCAL" />
+      <updated>1749125658123</updated>
+    </task>
+    <option name="localTasksCounter" value="940" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1180,7 +1183,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20" />
     <MESSAGE value="24" />
     <MESSAGE value="127" />
     <MESSAGE value="240" />
@@ -1205,7 +1207,8 @@
     <MESSAGE value="582336" />
     <MESSAGE value="4094550" />
     <MESSAGE value="8191127" />
-    <option name="LAST_COMMIT_MESSAGE" value="8191127" />
+    <MESSAGE value="147 944" />
+    <option name="LAST_COMMIT_MESSAGE" value="147 944" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
