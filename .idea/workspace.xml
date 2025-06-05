@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -779,22 +779,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00909" summary="20">
-      <option name="closed" value="true" />
-      <created>1749041786126</created>
-      <option name="number" value="00909" />
-      <option name="presentableId" value="LOCAL-00909" />
-      <option name="project" value="LOCAL" />
-      <updated>1749041786126</updated>
-    </task>
-    <task id="LOCAL-00910" summary="24">
-      <option name="closed" value="true" />
-      <created>1749041993762</created>
-      <option name="number" value="00910" />
-      <option name="presentableId" value="LOCAL-00910" />
-      <option name="project" value="LOCAL" />
-      <updated>1749041993762</updated>
-    </task>
     <task id="LOCAL-00911" summary="127">
       <option name="closed" value="true" />
       <created>1749042377144</created>
@@ -1171,7 +1155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749131622208</updated>
     </task>
-    <option name="localTasksCounter" value="958" />
+    <task id="LOCAL-00958" summary="142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396">
+      <option name="closed" value="true" />
+      <created>1749132153959</created>
+      <option name="number" value="00958" />
+      <option name="presentableId" value="LOCAL-00958" />
+      <option name="project" value="LOCAL" />
+      <updated>1749132153959</updated>
+    </task>
+    <task id="LOCAL-00959" summary="700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024">
+      <option name="closed" value="true" />
+      <created>1749132328985</created>
+      <option name="number" value="00959" />
+      <option name="presentableId" value="LOCAL-00959" />
+      <option name="project" value="LOCAL" />
+      <updated>1749132328985</updated>
+    </task>
+    <option name="localTasksCounter" value="960" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1186,7 +1186,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="72450445" />
     <MESSAGE value="4097" />
     <MESSAGE value="1591" />
     <MESSAGE value="pupupuuuu" />
@@ -1211,7 +1210,8 @@
     <MESSAGE value="180" />
     <MESSAGE value="1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377" />
     <MESSAGE value="142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
-    <option name="LAST_COMMIT_MESSAGE" value="142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
+    <MESSAGE value="700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024" />
+    <option name="LAST_COMMIT_MESSAGE" value="700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
