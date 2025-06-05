@@ -1,6 +1,3 @@
-from importlib.resources import read_text
-
-
 def f(a, n):
     if a >= 39: return n % 2 == 0
     if n == 0: return 0
