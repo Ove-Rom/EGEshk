@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="43789 62202&#10;14271 54727" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="132035 86733&#10;13054 128771">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -743,7 +745,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 27/task 27 - 19715",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 27/task 27 - 19566",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -751,11 +753,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 19566" />
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 19715" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 21720" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 20911" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17558" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 18" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17873" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\tasks 19, 20, 21" />
@@ -780,14 +782,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00915" summary="11.95.255.254">
-      <option name="closed" value="true" />
-      <created>1749043169404</created>
-      <option name="number" value="00915" />
-      <option name="presentableId" value="LOCAL-00915" />
-      <option name="project" value="LOCAL" />
-      <updated>1749043169404</updated>
     </task>
     <task id="LOCAL-00916" summary="19">
       <option name="closed" value="true" />
@@ -1173,7 +1167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749214615818</updated>
     </task>
-    <option name="localTasksCounter" value="964" />
+    <task id="LOCAL-00964" summary="132035 86733&#10;13054 128771">
+      <option name="closed" value="true" />
+      <created>1749214932146</created>
+      <option name="number" value="00964" />
+      <option name="presentableId" value="LOCAL-00964" />
+      <option name="project" value="LOCAL" />
+      <updated>1749214932146</updated>
+    </task>
+    <option name="localTasksCounter" value="965" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1188,7 +1190,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4094550" />
     <MESSAGE value="8191127" />
     <MESSAGE value="147 944" />
     <MESSAGE value="10 92404" />
@@ -1213,7 +1214,8 @@
     <MESSAGE value="28603 10294&#10;61260 11206" />
     <MESSAGE value="32540 13646&#10;47031 25263" />
     <MESSAGE value="43789 62202&#10;14271 54727" />
-    <option name="LAST_COMMIT_MESSAGE" value="43789 62202&#10;14271 54727" />
+    <MESSAGE value="132035 86733&#10;13054 128771" />
+    <option name="LAST_COMMIT_MESSAGE" value="132035 86733&#10;13054 128771" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
