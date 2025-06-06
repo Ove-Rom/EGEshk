@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="32500280 2755&#10;32500301 58290&#10;32500440 1450&#10;32500623 17545&#10;32500665 722245&#10;32500700 7975&#10;32500834 4785">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="28603 10294&#10;61260 11206">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -744,7 +744,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 27/task 27 - 20911",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 27/task 27 - 21720",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -752,11 +752,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 21720" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 27\task 27 - 20911" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17558" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 18" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17873" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 17\task 17 - 17680" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\tasks 19, 20, 21" />
@@ -781,14 +781,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00912" summary="240">
-      <option name="closed" value="true" />
-      <created>1749042666555</created>
-      <option name="number" value="00912" />
-      <option name="presentableId" value="LOCAL-00912" />
-      <option name="project" value="LOCAL" />
-      <updated>1749042666555</updated>
     </task>
     <task id="LOCAL-00913" summary="98.83.255.254">
       <option name="closed" value="true" />
@@ -1174,7 +1166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749132677977</updated>
     </task>
-    <option name="localTasksCounter" value="961" />
+    <task id="LOCAL-00961" summary="28603 10294&#10;61260 11206">
+      <option name="closed" value="true" />
+      <created>1749212355970</created>
+      <option name="number" value="00961" />
+      <option name="presentableId" value="LOCAL-00961" />
+      <option name="project" value="LOCAL" />
+      <updated>1749212355971</updated>
+    </task>
+    <option name="localTasksCounter" value="962" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1189,7 +1189,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1591" />
     <MESSAGE value="pupupuuuu" />
     <MESSAGE value="582336" />
     <MESSAGE value="4094550" />
@@ -1214,7 +1213,8 @@
     <MESSAGE value="142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
     <MESSAGE value="700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024" />
     <MESSAGE value="32500280 2755&#10;32500301 58290&#10;32500440 1450&#10;32500623 17545&#10;32500665 722245&#10;32500700 7975&#10;32500834 4785" />
-    <option name="LAST_COMMIT_MESSAGE" value="32500280 2755&#10;32500301 58290&#10;32500440 1450&#10;32500623 17545&#10;32500665 722245&#10;32500700 7975&#10;32500834 4785" />
+    <MESSAGE value="28603 10294&#10;61260 11206" />
+    <option name="LAST_COMMIT_MESSAGE" value="28603 10294&#10;61260 11206" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
