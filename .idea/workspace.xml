@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="132035 86733&#10;13054 128771">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="14803 51534&#10;216297 43456" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -783,14 +781,6 @@
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
     </task>
-    <task id="LOCAL-00916" summary="19">
-      <option name="closed" value="true" />
-      <created>1749043232820</created>
-      <option name="number" value="00916" />
-      <option name="presentableId" value="LOCAL-00916" />
-      <option name="project" value="LOCAL" />
-      <updated>1749043232820</updated>
-    </task>
     <task id="LOCAL-00917" summary="47163321">
       <option name="closed" value="true" />
       <created>1749043654695</created>
@@ -1175,7 +1165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749214932146</updated>
     </task>
-    <option name="localTasksCounter" value="965" />
+    <task id="LOCAL-00965" summary="14803 51534&#10;216297 43456">
+      <option name="closed" value="true" />
+      <created>1749215552294</created>
+      <option name="number" value="00965" />
+      <option name="presentableId" value="LOCAL-00965" />
+      <option name="project" value="LOCAL" />
+      <updated>1749215552294</updated>
+    </task>
+    <option name="localTasksCounter" value="966" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1190,7 +1188,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8191127" />
     <MESSAGE value="147 944" />
     <MESSAGE value="10 92404" />
     <MESSAGE value="1214 176024" />
@@ -1215,7 +1212,8 @@
     <MESSAGE value="32540 13646&#10;47031 25263" />
     <MESSAGE value="43789 62202&#10;14271 54727" />
     <MESSAGE value="132035 86733&#10;13054 128771" />
-    <option name="LAST_COMMIT_MESSAGE" value="132035 86733&#10;13054 128771" />
+    <MESSAGE value="14803 51534&#10;216297 43456" />
+    <option name="LAST_COMMIT_MESSAGE" value="14803 51534&#10;216297 43456" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
