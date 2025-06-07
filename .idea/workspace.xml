@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="9991 5643" />
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="9991 5643">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -516,7 +518,7 @@
     "Python.task 26 - 16390.executor": "Run",
     "Python.task 26 - 17537.executor": "Run",
     "Python.task 26 - 17557.executor": "Run",
-    "Python.task 26 - 17565.executor": "Debug",
+    "Python.task 26 - 17565.executor": "Run",
     "Python.task 26 - 17634.executor": "Run",
     "Python.task 26 - 17687.executor": "Run",
     "Python.task 26 - 17786.executor": "Run",
@@ -746,7 +748,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 26/task 26 - 17537",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 26/task 26 - 17565",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -754,11 +756,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 17565" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 17537" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 10107" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 12256" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 16390" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 17687" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\tasks 19, 20, 21" />
@@ -783,38 +785,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00924" summary="pupupuuuu">
-      <option name="closed" value="true" />
-      <created>1749045304760</created>
-      <option name="number" value="00924" />
-      <option name="presentableId" value="LOCAL-00924" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045304760</updated>
-    </task>
-    <task id="LOCAL-00925" summary="88">
-      <option name="closed" value="true" />
-      <created>1749045913454</created>
-      <option name="number" value="00925" />
-      <option name="presentableId" value="LOCAL-00925" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045913454</updated>
-    </task>
-    <task id="LOCAL-00926" summary="13003">
-      <option name="closed" value="true" />
-      <created>1749046052389</created>
-      <option name="number" value="00926" />
-      <option name="presentableId" value="LOCAL-00926" />
-      <option name="project" value="LOCAL" />
-      <updated>1749046052389</updated>
-    </task>
-    <task id="LOCAL-00927" summary="13003">
-      <option name="closed" value="true" />
-      <created>1749046080555</created>
-      <option name="number" value="00927" />
-      <option name="presentableId" value="LOCAL-00927" />
-      <option name="project" value="LOCAL" />
-      <updated>1749046080556</updated>
     </task>
     <task id="LOCAL-00928" summary="1715">
       <option name="closed" value="true" />
@@ -1176,7 +1146,39 @@
       <option name="project" value="LOCAL" />
       <updated>1749221032770</updated>
     </task>
-    <option name="localTasksCounter" value="973" />
+    <task id="LOCAL-00973" summary="9991 5643">
+      <option name="closed" value="true" />
+      <created>1749221270085</created>
+      <option name="number" value="00973" />
+      <option name="presentableId" value="LOCAL-00973" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221270085</updated>
+    </task>
+    <task id="LOCAL-00974" summary="9991 5643">
+      <option name="closed" value="true" />
+      <created>1749221315497</created>
+      <option name="number" value="00974" />
+      <option name="presentableId" value="LOCAL-00974" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221315497</updated>
+    </task>
+    <task id="LOCAL-00975" summary="9991 5643">
+      <option name="closed" value="true" />
+      <created>1749221382888</created>
+      <option name="number" value="00975" />
+      <option name="presentableId" value="LOCAL-00975" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221382888</updated>
+    </task>
+    <task id="LOCAL-00976" summary="9991 5643">
+      <option name="closed" value="true" />
+      <created>1749221675210</created>
+      <option name="number" value="00976" />
+      <option name="presentableId" value="LOCAL-00976" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221675210</updated>
+    </task>
+    <option name="localTasksCounter" value="977" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
