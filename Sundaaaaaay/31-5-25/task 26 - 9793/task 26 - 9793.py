@@ -2,11 +2,9 @@
 with open("26_9793.txt") as f:
     f.readline()
     data = []
-    num = 1
-    for i in f:
+    for num, i in enumerate(f, start=1):
         sh, ok = map(int, i.split())
         data += [[num, True, sh]] + [[num, False, ok]]
-        num += 1
 
 data = sorted(data, key=lambda x: x[2])
 conveyor = []
