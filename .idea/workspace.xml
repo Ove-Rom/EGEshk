@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="40031 148">
+    <list default="true" id="34ce6290-a435-43ab-83f9-ab62436c5048" name="Changes" comment="895 488">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -400,6 +400,7 @@
     "Python.task 24 - 19254.executor": "Run",
     "Python.task 24 - 19489.executor": "Run",
     "Python.task 24 - 19717.executor": "Run",
+    "Python.task 24 - 1975.executor": "Run",
     "Python.task 24 - 19967.executor": "Run",
     "Python.task 24 - 19968.executor": "Run",
     "Python.task 24 - 20909.executor": "Run",
@@ -749,7 +750,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 24/task 24 - 303 KP",
+    "last_opened_file_path": "C:/Users/Roman/Desktop/EGEshk/Shpora/task 24/task 24 - 1975",
     "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
     "settings.editor.splitter.proportion": "0.23664123",
     "two.files.diff.last.used.folder": "C:/Users/Roman/Desktop/EGEshk/Normeses/11-02-25/task 17 - 4597"
@@ -757,11 +758,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 24\task 24 - 1975" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 24\task 24 - 303 KP" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 19256" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 21424" />
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 17643" />
-      <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\task 26\task 26 - 17565" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\Desktop\EGEshk\Shpora\tasks 19, 20, 21" />
@@ -786,14 +787,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050695529</updated>
-    </task>
-    <task id="LOCAL-00931" summary="143.168.72.222">
-      <option name="closed" value="true" />
-      <created>1749046817774</created>
-      <option name="number" value="00931" />
-      <option name="presentableId" value="LOCAL-00931" />
-      <option name="project" value="LOCAL" />
-      <updated>1749046817774</updated>
     </task>
     <task id="LOCAL-00932" summary="72450445">
       <option name="closed" value="true" />
@@ -1179,7 +1172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749304749370</updated>
     </task>
-    <option name="localTasksCounter" value="980" />
+    <task id="LOCAL-00980" summary="895 488">
+      <option name="closed" value="true" />
+      <created>1749386738859</created>
+      <option name="number" value="00980" />
+      <option name="presentableId" value="LOCAL-00980" />
+      <option name="project" value="LOCAL" />
+      <updated>1749386738859</updated>
+    </task>
+    <option name="localTasksCounter" value="981" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1194,7 +1195,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25103244" />
     <MESSAGE value="4969 299" />
     <MESSAGE value="307" />
     <MESSAGE value="10" />
@@ -1219,7 +1219,8 @@
     <MESSAGE value="7600410 14" />
     <MESSAGE value="43656 36" />
     <MESSAGE value="40031 148" />
-    <option name="LAST_COMMIT_MESSAGE" value="40031 148" />
+    <MESSAGE value="895 488" />
+    <option name="LAST_COMMIT_MESSAGE" value="895 488" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
